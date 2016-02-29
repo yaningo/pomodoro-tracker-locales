@@ -27,11 +27,13 @@ Open your language files use links above and edit `message.po`, `static.po` file
 
 By example (russian):
 
-    # Before editing
+*Before editing*
+
     #: templates/base.j2:91
     msgid "Sign Up / Login"
     msgstr ""
 
+*After editing*
 
     # After editing
     #: templates/base.j2:91
