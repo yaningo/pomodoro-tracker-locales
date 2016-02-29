@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-02-29 20:51+0300\n"
+"POT-Creation-Date: 2016-02-29 22:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -197,5 +197,25 @@ msgstr ""
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
+msgstr ""
+
+#: templates/news.j2:6
+msgid "Upcomming features"
+msgstr ""
+
+#: templates/news.j2:17
+msgid "Febrary"
+msgstr ""
+
+#: templates/news.j2:29
+msgid "December"
+msgstr ""
+
+#: templates/news.j2:39
+msgid "September"
+msgstr ""
+
+#: templates/news.j2:52
+msgid "August"
 msgstr ""
 

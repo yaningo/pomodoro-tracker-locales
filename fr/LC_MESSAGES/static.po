@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-02-29 20:53+0300\n"
+"POT-Creation-Date: 2016-02-29 22:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -109,7 +109,7 @@ msgstr ""
 msgid "Last 7 days"
 msgstr ""
 
-#: static/tags/pomodoro-records.tag:26
+#: static/tags/pomodoro-records.tag:26 static/tags/stats/chart.tag:4
 msgid "Last 30 days"
 msgstr ""
 
@@ -366,11 +366,41 @@ msgstr ""
 msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
 msgstr ""
 
-#: static/tags/stats/chart.tag:7
+#: static/tags/profile.tag:5
+msgid "Joined at"
+msgstr ""
+
+#: static/tags/stats/chart.tag:7 static/tags/stats/chart.tag:15
+#: static/tags/stats/chart.tag:23
 msgid "average"
 msgstr ""
 
-#: static/tags/stats/chart.tag:8
+#: static/tags/stats/chart.tag:8 static/tags/stats/chart.tag:16
+#: static/tags/stats/chart.tag:24
 msgid "percentile75"
+msgstr ""
+
+#: static/tags/stats/chart.tag:12
+msgid "Last 12 weeks"
+msgstr ""
+
+#: static/tags/stats/chart.tag:20
+msgid "Last 6 months"
+msgstr ""
+
+#: static/tags/stats/info.tag:12
+msgid "Pomodoros"
+msgstr ""
+
+#: static/tags/stats/info.tag:27
+msgid "Work days"
+msgstr ""
+
+#: static/tags/stats/info.tag:42
+msgid "Average per day"
+msgstr ""
+
+#: static/tags/stats/info.tag:57
+msgid "Time spent"
 msgstr ""
 

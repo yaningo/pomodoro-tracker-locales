@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-02-29 21:41+0300\n"
+"POT-Creation-Date: 2016-02-29 22:02+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -217,6 +217,26 @@ msgid ""
 msgstr ""
 "Техника Помидора не должна использоваться для занятий в ваше свободное "
 "время. Наслаждайтесь вашим временем!"
+
+#: templates/news.j2:6
+msgid "Upcomming features"
+msgstr "В разработке"
+
+#: templates/news.j2:17
+msgid "Febrary"
+msgstr "Февраль"
+
+#: templates/news.j2:29
+msgid "December"
+msgstr "Декабрь"
+
+#: templates/news.j2:39
+msgid "September"
+msgstr "Сентябрь"
+
+#: templates/news.j2:52
+msgid "August"
+msgstr "Август"
 
 #~ msgid "Your language"
 #~ msgstr "Ваш язык"
