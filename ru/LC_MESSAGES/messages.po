@@ -188,7 +188,7 @@ msgstr "Правила и советы"
 
 #: templates/index.j2:48
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr "Если задача требует более 5-7 «помидоров» - разбейте её на подзадачи"
+msgstr "Если задача требует более 5-7 «помидоров» — разбейте её на подзадачи"
 
 #: templates/index.j2:49
 msgid ""
