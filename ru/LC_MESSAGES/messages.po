@@ -74,7 +74,7 @@ msgstr "Версия"
 
 #: templates/index.j2:12
 msgid "What is it?"
-msgstr "Что это"
+msgstr "Что это?"
 
 #: templates/index.j2:13
 msgid ""
@@ -83,9 +83,9 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
-"Техника Помидора это технология управления временем которая может быть "
-"использована для любых задач. Для многих людей время это враг. "
-"Беспокойство вызванное «тиканьем часов» приводит к неэффективной работе и"
+"Техника «Помидора» — это технология управления временем, которая может быть "
+"использована для любых задач. Для многих людей время — это враг. "
+"Беспокойство, вызванное «тиканьем часов», приводит к неэффективной работе и"
 " к привычке затягивать задачи (прокрастинации)."
 
 #: templates/index.j2:14
@@ -94,9 +94,9 @@ msgid ""
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
-"Техника Помидора позволяет использовать время как ценного союзника в "
+"Техника «Помидора» позволяет использовать время как ценного союзника в "
 "достижении того, что мы хотим сделать и как мы хотим это сделать. Она "
-"дает нам возможность постоянно улучшать то, как мы работаем или учимся."
+"даёт нам возможность постоянно улучшать то, как мы работаем или учимся."
 
 #: templates/index.j2:18
 msgid "The Goals"
@@ -108,43 +108,43 @@ msgid ""
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"Техника Помидора предоставляет простой инструмент для улучшения "
-"производительности (для вас или вашей команды) и может быть использована "
+"Техника «Помидора» предоставляет простой инструмент для улучшения "
+"производительности (для Вас или вашей команды) и может быть использована "
 "для:"
 
 #: templates/index.j2:21
 msgid "Alleviate anxiety linked to becoming"
-msgstr "Облегчение начала работы"
+msgstr "Облегчения начала работы"
 
 #: templates/index.j2:22
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr "Улучшение концентрации, избавление от отвлекающих факторов"
+msgstr "Улучшения концентрации, избавления от отвлекающих факторов"
 
 #: templates/index.j2:23
 msgid "Increase awareness of your decisions"
-msgstr "Повышение осведомленности о ваших решениях"
+msgstr "Повышения осведомлённости о ваших решениях"
 
 #: templates/index.j2:24
 msgid "Boost motivation and keep it constant"
-msgstr "Улучшение и сохранение мотивации"
+msgstr "Улучшения и сохранения мотивации"
 
 #: templates/index.j2:25
 msgid "Bolster the determination to achieve your goals"
-msgstr "Определенность с пониманием достижения ваших целей"
+msgstr "Определенности с пониманием достижения ваших целей"
 
 #: templates/index.j2:26
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr "Уточнение процесса оценки задач, качественно и количественно"
+msgstr "Уточнения процесса оценки задач, качественно и количественно"
 
 #: templates/index.j2:27
 msgid "Improve your work or study process"
-msgstr "Улучшение вашего рабочего или учебного процесса"
+msgstr "Улучшения вашего рабочего или учебного процесса"
 
 #: templates/index.j2:28
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr "Укрепление вашей решимости в сложных ситуациях"
+msgstr "Укрепления вашей решимости в сложных ситуациях"
 
 #: templates/index.j2:34
 msgid "The Basics"
@@ -156,7 +156,7 @@ msgid ""
 "put them on the TODO list above."
 msgstr ""
 "В начале каждого дня выбирайте задачи для выполнения и вносите их в "
-"список TODO выше."
+"список TODO, что находится выше."
 
 #: templates/index.j2:36
 msgid "Start working:"
@@ -215,7 +215,7 @@ msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
-"Техника Помидора не должна использоваться для занятий в ваше свободное "
+"Техника «Помидора» не должна использоваться для занятий в ваше свободное "
 "время. Наслаждайтесь вашим временем!"
 
 #: templates/news.j2:6
