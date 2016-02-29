@@ -35,7 +35,6 @@ By example (russian):
 
 *After editing*
 
-    # After editing
     #: templates/base.j2:91
     msgid "Sign Up / Login"
     msgstr "Зарегистрироваться / Войти"
