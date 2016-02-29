@@ -77,7 +77,7 @@ msgstr "Список пуст."
 
 #: static/tags/activities.tag:68
 msgid "Try to mark TODO as activity or use the form above"
-msgstr "Попробуйте добавить задачу в избраное или используйте форму выше"
+msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."
 
 #: static/tags/pomodoro-history.tag:8
 msgid "DONE"
@@ -230,7 +230,7 @@ msgstr "Проигрывать тикающий звук"
 
 #: static/tags/pomodoro-settings.tag:125
 msgid "Enable Web Notifications"
-msgstr "Включить браузерные оповещения"
+msgstr "Включить оповещения в браузере"
 
 #: static/tags/pomodoro-settings.tag:135
 msgid "Enable Browser Alerts"
@@ -238,7 +238,7 @@ msgstr "Включить всплывающие окна"
 
 #: static/tags/pomodoro-settings.tag:136
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Вызывать всплавающее окно с предупреждением когда помидор/перерыв окончен"
+msgstr "Вызывать всплывающее окно с предупреждением, когда помидор/перерыв окончен"
 
 #: static/tags/pomodoro-settings.tag:142
 msgid "Hide notificaions"
@@ -362,7 +362,7 @@ msgstr "Список задач пуст"
 
 #: static/tags/pomodoro-todo.tag:66
 msgid "Try to add some tasks use the form above"
-msgstr "Попробуйте добавить задачи используя форму выше"
+msgstr "Попробуйте добавить задачи используя форму выше."
 
 #: static/tags/pomodoro-todo.tag:68
 msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
