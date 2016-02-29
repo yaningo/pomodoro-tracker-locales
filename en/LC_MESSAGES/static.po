@@ -1,0 +1,376 @@
+# English translations for pomodoro.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 0.7.16\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-02-29 20:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: static/tags/activities.tag:7
+msgid "Activities"
+msgstr ""
+
+#: static/tags/activities.tag:13 static/tags/activities.tag:20
+#: static/tags/activities.tag:43 static/tags/pomodoro-history.tag:6
+#: static/tags/pomodoro-history.tag:19 static/tags/pomodoro-records.tag:67
+#: static/tags/pomodoro-records.tag:79 static/tags/pomodoro-settings.tag:199
+#: static/tags/pomodoro-todo.tag:7 static/tags/pomodoro-todo.tag:15
+#: static/tags/pomodoro-todo.tag:41
+msgid "Category"
+msgstr ""
+
+#: static/tags/activities.tag:14 static/tags/activities.tag:48
+#: static/tags/pomodoro-history.tag:7 static/tags/pomodoro-history.tag:30
+#: static/tags/pomodoro-records.tag:68 static/tags/pomodoro-records.tag:85
+#: static/tags/pomodoro-todo.tag:8 static/tags/pomodoro-todo.tag:48
+msgid "Description"
+msgstr ""
+
+#: static/tags/activities.tag:25 static/tags/pomodoro-todo.tag:21
+msgid "Short description"
+msgstr ""
+
+#: static/tags/activities.tag:27
+msgid "Add Activity"
+msgstr ""
+
+#: static/tags/activities.tag:50 static/tags/pomodoro-history.tag:32
+#: static/tags/pomodoro-records.tag:87 static/tags/pomodoro-todo.tag:50
+msgid "Save (enter)"
+msgstr ""
+
+#: static/tags/activities.tag:51 static/tags/pomodoro-todo.tag:57
+msgid "Remove"
+msgstr ""
+
+#: static/tags/activities.tag:56
+msgid "Mark as daily task"
+msgstr ""
+
+#: static/tags/activities.tag:59 static/tags/pomodoro-history.tag:38
+msgid "Add to TODO"
+msgstr ""
+
+#: static/tags/activities.tag:65 static/tags/pomodoro-history.tag:47
+#: static/tags/pomodoro-records.tag:115
+msgid "Double click/tap to edit items."
+msgstr ""
+
+#: static/tags/activities.tag:67
+msgid "The list is empty"
+msgstr ""
+
+#: static/tags/activities.tag:68
+msgid "Try to mark TODO as activity or use the form above"
+msgstr ""
+
+#: static/tags/pomodoro-history.tag:8
+msgid "DONE"
+msgstr ""
+
+#: static/tags/pomodoro-history.tag:37
+msgid "Add to favorites"
+msgstr ""
+
+#: static/tags/pomodoro-history.tag:44 static/tags/pomodoro-records.tag:117
+msgid "Records are empty"
+msgstr ""
+
+#: static/tags/pomodoro-history.tag:45
+msgid "Try to complete some pomodoros above"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:4 static/tags/pomodoro-settings.tag:195
+msgid "Categories"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:18
+msgid "Records"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:22
+msgid "Yesterday"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:24
+msgid "Last 7 days"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:26
+msgid "Last 30 days"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:28
+msgid "Last 90 days"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:29
+msgid "Custom"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:43
+msgid "From"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:51
+msgid "To"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:66
+msgid "Date"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:69
+msgid "Duration"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:89 static/tags/pomodoro-records.tag:102
+msgid "Delete"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:100
+msgid "Are you sure want to delete"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:103
+msgid "Cancel"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:118
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:124
+msgid "Import/Export"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:128
+msgid "Export the records as CSV"
+msgstr ""
+
+#: static/tags/pomodoro-records.tag:135
+msgid "Import CSV"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:8
+msgid "Preferences"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:15
+msgid "Timer"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:18
+msgid "Notifications"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:21
+msgid "Misc"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:30
+msgid "Pomodoro duration:"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:33 static/tags/pomodoro-settings.tag:40
+#: static/tags/pomodoro-settings.tag:47
+msgid "in minutes"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:37
+msgid "Short break duration:"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:44
+msgid "Long break duration:"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:51
+msgid "Long break delay:"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:54
+msgid "in pomodoros"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:63
+msgid "Auto start pomodoros"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:73
+msgid "Auto start breaks"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:83
+msgid "Volume"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:105
+msgid "Play alarm sound"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:115
+msgid "Play ticking sound"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:125
+msgid "Enable Web Notifications"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:135
+msgid "Enable Browser Alerts"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:136
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:142
+msgid "Hide notificaions"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:146
+msgid "in 2 seconds"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:147
+msgid "in 3 seconds"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:148
+msgid "in 5 seconds"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:149
+msgid "in 10 seconds"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:161
+msgid "Date format"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:174
+msgid "Time format"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:188
+msgid "Clear daily history after midnight"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:201
+msgid "Add category"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:220
+msgid "Close"
+msgstr ""
+
+#: static/tags/pomodoro-settings.tag:221
+msgid "Save changes"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:14
+msgid "Tune the timer"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:19
+msgid "START"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:20
+msgid "RESUME"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:21
+msgid "PAUSE"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:22
+msgid "STOP"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:23
+msgid "SKIP"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:89
+msgid "POMODORO"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:90
+msgid "TAKE A SHORT BREAK"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:91
+msgid "TAKE A LONG BREAK"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:102
+msgid "Pomodoro is finished. Have a break."
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:106
+msgid "Break is over. The next pomodoro will go better!"
+msgstr ""
+
+#: static/tags/pomodoro-timer.tag:128
+msgid "The Pomodoro is running"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:23
+msgid "Add TODO"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:26
+msgid "Favorites"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:45
+msgid "no description"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:51
+msgid "Pin to favorites"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:55
+msgid "Drag/Move to sort"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:59
+msgid "Add more"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:65
+msgid "TODO list is empty"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:66
+msgid "Try to add some tasks use the form above"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:68
+msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
+msgstr ""
+
+#: static/tags/stats/chart.tag:7
+msgid "average"
+msgstr ""
+
+#: static/tags/stats/chart.tag:8
+msgid "percentile75"
+msgstr ""
+

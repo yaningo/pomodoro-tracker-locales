@@ -1,0 +1,383 @@
+# Russian translations for pomodoro.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 0.7.16\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-02-29 20:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: static/tags/activities.tag:7
+#, fuzzy
+msgid "Activities"
+msgstr "Избранное"
+
+#: static/tags/activities.tag:13 static/tags/activities.tag:20
+#: static/tags/activities.tag:43 static/tags/pomodoro-history.tag:6
+#: static/tags/pomodoro-history.tag:19 static/tags/pomodoro-records.tag:67
+#: static/tags/pomodoro-records.tag:79 static/tags/pomodoro-settings.tag:199
+#: static/tags/pomodoro-todo.tag:7 static/tags/pomodoro-todo.tag:15
+#: static/tags/pomodoro-todo.tag:41
+msgid "Category"
+msgstr "Категория"
+
+#: static/tags/activities.tag:14 static/tags/activities.tag:48
+#: static/tags/pomodoro-history.tag:7 static/tags/pomodoro-history.tag:30
+#: static/tags/pomodoro-records.tag:68 static/tags/pomodoro-records.tag:85
+#: static/tags/pomodoro-todo.tag:8 static/tags/pomodoro-todo.tag:48
+msgid "Description"
+msgstr "Описание"
+
+#: static/tags/activities.tag:25 static/tags/pomodoro-todo.tag:21
+msgid "Short description"
+msgstr "Короткое описание"
+
+#: static/tags/activities.tag:27
+msgid "Add Activity"
+msgstr "Добавить в избранное"
+
+#: static/tags/activities.tag:50 static/tags/pomodoro-history.tag:32
+#: static/tags/pomodoro-records.tag:87 static/tags/pomodoro-todo.tag:50
+msgid "Save (enter)"
+msgstr "Сохранить (ввод)"
+
+#: static/tags/activities.tag:51 static/tags/pomodoro-todo.tag:57
+msgid "Remove"
+msgstr "Удалить"
+
+#: static/tags/activities.tag:56
+msgid "Mark as daily task"
+msgstr "Повторять ежедневно"
+
+#: static/tags/activities.tag:59 static/tags/pomodoro-history.tag:38
+msgid "Add to TODO"
+msgstr "Добавить в список задач"
+
+#: static/tags/activities.tag:65 static/tags/pomodoro-history.tag:47
+#: static/tags/pomodoro-records.tag:115
+msgid "Double click/tap to edit items."
+msgstr "Двойной клик/тап для редактирования."
+
+#: static/tags/activities.tag:67
+msgid "The list is empty"
+msgstr "Список пуст."
+
+#: static/tags/activities.tag:68
+msgid "Try to mark TODO as activity or use the form above"
+msgstr "Попробуйте добавить задачу в избраное или используйте форму выше"
+
+#: static/tags/pomodoro-history.tag:8
+msgid "DONE"
+msgstr "Сделано"
+
+#: static/tags/pomodoro-history.tag:37
+msgid "Add to favorites"
+msgstr "Добавить в избранное"
+
+#: static/tags/pomodoro-history.tag:44 static/tags/pomodoro-records.tag:117
+msgid "Records are empty"
+msgstr "Записей не найдено"
+
+#: static/tags/pomodoro-history.tag:45
+msgid "Try to complete some pomodoros above"
+msgstr "Попробуйте выполнить несколько помидоров"
+
+#: static/tags/pomodoro-records.tag:4 static/tags/pomodoro-settings.tag:195
+msgid "Categories"
+msgstr "Категории"
+
+#: static/tags/pomodoro-records.tag:18
+msgid "Records"
+msgstr "Записи"
+
+#: static/tags/pomodoro-records.tag:22
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: static/tags/pomodoro-records.tag:24
+msgid "Last 7 days"
+msgstr "Последние 7 дней"
+
+#: static/tags/pomodoro-records.tag:26
+msgid "Last 30 days"
+msgstr "Последние 30 дней"
+
+#: static/tags/pomodoro-records.tag:28
+msgid "Last 90 days"
+msgstr "Последние 90 дней"
+
+#: static/tags/pomodoro-records.tag:29
+msgid "Custom"
+msgstr "Вручную"
+
+#: static/tags/pomodoro-records.tag:43
+msgid "From"
+msgstr "От"
+
+#: static/tags/pomodoro-records.tag:51
+msgid "To"
+msgstr "До"
+
+#: static/tags/pomodoro-records.tag:66
+msgid "Date"
+msgstr "Дата"
+
+#: static/tags/pomodoro-records.tag:69
+msgid "Duration"
+msgstr "Длительность"
+
+#: static/tags/pomodoro-records.tag:89 static/tags/pomodoro-records.tag:102
+msgid "Delete"
+msgstr "Удалить"
+
+#: static/tags/pomodoro-records.tag:100
+msgid "Are you sure want to delete"
+msgstr "Вы уверены, что хотите удалить"
+
+#: static/tags/pomodoro-records.tag:103
+msgid "Cancel"
+msgstr "Отмена"
+
+#: static/tags/pomodoro-records.tag:118
+msgid "Try to complete some pomodoros or choose a different period"
+msgstr "Попробуйте выполнить несколько помидоров или выберите другой период"
+
+#: static/tags/pomodoro-records.tag:124
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: static/tags/pomodoro-records.tag:128
+msgid "Export the records as CSV"
+msgstr "Экспорт записей в CSV"
+
+#: static/tags/pomodoro-records.tag:135
+msgid "Import CSV"
+msgstr "Импорт CSV"
+
+#: static/tags/pomodoro-settings.tag:8
+msgid "Preferences"
+msgstr "Настройки"
+
+#: static/tags/pomodoro-settings.tag:15
+msgid "Timer"
+msgstr "Таймер"
+
+#: static/tags/pomodoro-settings.tag:18
+msgid "Notifications"
+msgstr "Оповещения"
+
+#: static/tags/pomodoro-settings.tag:21
+msgid "Misc"
+msgstr "Разное"
+
+#: static/tags/pomodoro-settings.tag:30
+msgid "Pomodoro duration:"
+msgstr "Продолжительность помидора:"
+
+#: static/tags/pomodoro-settings.tag:33 static/tags/pomodoro-settings.tag:40
+#: static/tags/pomodoro-settings.tag:47
+msgid "in minutes"
+msgstr "в минутах"
+
+#: static/tags/pomodoro-settings.tag:37
+msgid "Short break duration:"
+msgstr "Продолжительность короткого перерыва:"
+
+#: static/tags/pomodoro-settings.tag:44
+msgid "Long break duration:"
+msgstr "Продолжительность длинного перерыва:"
+
+#: static/tags/pomodoro-settings.tag:51
+msgid "Long break delay:"
+msgstr "Длинный перерыв"
+
+#: static/tags/pomodoro-settings.tag:54
+msgid "in pomodoros"
+msgstr "в помидорах"
+
+#: static/tags/pomodoro-settings.tag:63
+msgid "Auto start pomodoros"
+msgstr "Автостарт для помидора"
+
+#: static/tags/pomodoro-settings.tag:73
+msgid "Auto start breaks"
+msgstr "Автостарт для перерыва"
+
+#: static/tags/pomodoro-settings.tag:83
+msgid "Volume"
+msgstr "Громкость"
+
+#: static/tags/pomodoro-settings.tag:105
+msgid "Play alarm sound"
+msgstr "Проигрывать финишный звук"
+
+#: static/tags/pomodoro-settings.tag:115
+msgid "Play ticking sound"
+msgstr "Проигрывать тикающий звук"
+
+#: static/tags/pomodoro-settings.tag:125
+msgid "Enable Web Notifications"
+msgstr "Включить браузерные оповещения"
+
+#: static/tags/pomodoro-settings.tag:135
+msgid "Enable Browser Alerts"
+msgstr "Включить всплывающие окна"
+
+#: static/tags/pomodoro-settings.tag:136
+msgid "Raise browser alert when pomodoro/break is over"
+msgstr "Вызывать всплавающее окно с предупреждением когда помидор/перерыв окончен"
+
+#: static/tags/pomodoro-settings.tag:142
+msgid "Hide notificaions"
+msgstr "Прятать оповещения"
+
+#: static/tags/pomodoro-settings.tag:146
+msgid "in 2 seconds"
+msgstr "через 2 секунды"
+
+#: static/tags/pomodoro-settings.tag:147
+msgid "in 3 seconds"
+msgstr "через 3 секунды"
+
+#: static/tags/pomodoro-settings.tag:148
+msgid "in 5 seconds"
+msgstr "через 5 секунд"
+
+#: static/tags/pomodoro-settings.tag:149
+msgid "in 10 seconds"
+msgstr "через 10 секунд"
+
+#: static/tags/pomodoro-settings.tag:161
+msgid "Date format"
+msgstr "Формат даты"
+
+#: static/tags/pomodoro-settings.tag:174
+msgid "Time format"
+msgstr "Формат времени"
+
+#: static/tags/pomodoro-settings.tag:188
+msgid "Clear daily history after midnight"
+msgstr "Очищать историю задач после полуночи"
+
+#: static/tags/pomodoro-settings.tag:201
+msgid "Add category"
+msgstr "Добавить категорию"
+
+#: static/tags/pomodoro-settings.tag:220
+msgid "Close"
+msgstr "Закрыть"
+
+#: static/tags/pomodoro-settings.tag:221
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: static/tags/pomodoro-timer.tag:14
+msgid "Tune the timer"
+msgstr "Настройки"
+
+#: static/tags/pomodoro-timer.tag:19
+msgid "START"
+msgstr "СТАРТ"
+
+#: static/tags/pomodoro-timer.tag:20
+msgid "RESUME"
+msgstr "ПРОДОЛЖИТЬ"
+
+#: static/tags/pomodoro-timer.tag:21
+msgid "PAUSE"
+msgstr "ПАУЗА"
+
+#: static/tags/pomodoro-timer.tag:22
+msgid "STOP"
+msgstr "СТОП"
+
+#: static/tags/pomodoro-timer.tag:23
+msgid "SKIP"
+msgstr "ПРОПУСТИТЬ"
+
+#: static/tags/pomodoro-timer.tag:89
+msgid "POMODORO"
+msgstr "ПОМИДОР"
+
+#: static/tags/pomodoro-timer.tag:90
+msgid "TAKE A SHORT BREAK"
+msgstr "КОРОТКИЙ ПЕРЕРЫВ"
+
+#: static/tags/pomodoro-timer.tag:91
+msgid "TAKE A LONG BREAK"
+msgstr "ДЛИННЫЙ ПЕРЕРЫВ"
+
+#: static/tags/pomodoro-timer.tag:102
+msgid "Pomodoro is finished. Have a break."
+msgstr "Помидор окончен. Сделайте перерыв."
+
+#: static/tags/pomodoro-timer.tag:106
+msgid "Break is over. The next pomodoro will go better!"
+msgstr "Перерыв окончен. Следующий помидор будет лучше!"
+
+#: static/tags/pomodoro-timer.tag:128
+msgid "The Pomodoro is running"
+msgstr "Помидор запущен"
+
+#: static/tags/pomodoro-todo.tag:23
+msgid "Add TODO"
+msgstr "Добавить TODO"
+
+#: static/tags/pomodoro-todo.tag:26
+msgid "Favorites"
+msgstr "Избранное"
+
+#: static/tags/pomodoro-todo.tag:45
+msgid "no description"
+msgstr "без описания"
+
+#: static/tags/pomodoro-todo.tag:51
+msgid "Pin to favorites"
+msgstr "Добавить в избранное"
+
+#: static/tags/pomodoro-todo.tag:55
+msgid "Drag/Move to sort"
+msgstr "Перетащите для сортировки"
+
+#: static/tags/pomodoro-todo.tag:59
+msgid "Add more"
+msgstr "Добавить"
+
+#: static/tags/pomodoro-todo.tag:65
+msgid "TODO list is empty"
+msgstr "Список задач пуст"
+
+#: static/tags/pomodoro-todo.tag:66
+msgid "Try to add some tasks use the form above"
+msgstr "Попробуйте добавить задачи используя форму выше"
+
+#: static/tags/pomodoro-todo.tag:68
+msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
+msgstr ""
+"Используйте двойной клик/тап для редактирования. Перетаскивайте для "
+"сортировки."
+
+#: static/tags/stats/chart.tag:7
+msgid "average"
+msgstr "среднее"
+
+#: static/tags/stats/chart.tag:8
+msgid "percentile75"
+msgstr "перцентиль75"
+
+#~ msgid "Pomodoro"
+#~ msgstr "Помидор"
+

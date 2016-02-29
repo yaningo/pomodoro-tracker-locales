@@ -1,0 +1,201 @@
+# English translations for pomodoro.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the pomodoro project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pomodoro 0.7.16\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-02-29 20:52+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.2.0\n"
+
+#: templates/base.j2:31
+msgid "Login to track your productivity"
+msgstr ""
+
+#: templates/base.j2:33
+msgid "Stats"
+msgstr ""
+
+#: templates/base.j2:43
+msgid "Login to log your work"
+msgstr ""
+
+#: templates/base.j2:45
+msgid "Worklog"
+msgstr ""
+
+#: templates/base.j2:57
+msgid "Admin"
+msgstr ""
+
+#: templates/base.j2:69
+msgid "Russian"
+msgstr ""
+
+#: templates/base.j2:74
+msgid "English"
+msgstr ""
+
+#: templates/base.j2:87
+msgid "Logout"
+msgstr ""
+
+#: templates/base.j2:91
+msgid "Sign Up / Login"
+msgstr ""
+
+#: templates/base.j2:94
+msgid "as Google user"
+msgstr ""
+
+#: templates/base.j2:97
+msgid "as Facebook user"
+msgstr ""
+
+#: templates/base.j2:100
+msgid "as Github user"
+msgstr ""
+
+#: templates/base.j2:117
+msgid "version"
+msgstr ""
+
+#: templates/index.j2:12
+msgid "What is it?"
+msgstr ""
+
+#: templates/index.j2:13
+msgid ""
+"The Pomodoro Technique is a time management method that can be used for "
+"any task. For many people, time is an enemy. The anxiety triggered by "
+"“the ticking clock”, especially when it involves a deadline, leads to "
+"ineffective work and study habits which in turn lead to procrastination."
+msgstr ""
+
+#: templates/index.j2:14
+msgid ""
+"The aim of the Pomodoro Technique is to use time as a valuable ally in "
+"accomplishing what we want to do in the way we want to do it, and to "
+"enable us to improve continually the way we work or study."
+msgstr ""
+
+#: templates/index.j2:18
+msgid "The Goals"
+msgstr ""
+
+#: templates/index.j2:19
+msgid ""
+"The Pomodoro Technique will provide a simple tool/process for improving "
+"productivity (your own and that of your team members) which can do the "
+"following:"
+msgstr ""
+
+#: templates/index.j2:21
+msgid "Alleviate anxiety linked to becoming"
+msgstr ""
+
+#: templates/index.j2:22
+msgid "Enhance focus and concentration by cutting down on interruptions"
+msgstr ""
+
+#: templates/index.j2:23
+msgid "Increase awareness of your decisions"
+msgstr ""
+
+#: templates/index.j2:24
+msgid "Boost motivation and keep it constant"
+msgstr ""
+
+#: templates/index.j2:25
+msgid "Bolster the determination to achieve your goals"
+msgstr ""
+
+#: templates/index.j2:26
+msgid "Refine the estimation process, both in qualitative and quantitative terms "
+msgstr ""
+
+#: templates/index.j2:27
+msgid "Improve your work or study process"
+msgstr ""
+
+#: templates/index.j2:28
+msgid ""
+"Strengthen your resolve to keep on applying yourself in the face of "
+"complex situations"
+msgstr ""
+
+#: templates/index.j2:34
+msgid "The Basics"
+msgstr ""
+
+#: templates/index.j2:35
+msgid ""
+"At the beginning of each day select the tasks you need to complete and "
+"put them on the TODO list above."
+msgstr ""
+
+#: templates/index.j2:36
+msgid "Start working:"
+msgstr ""
+
+#: templates/index.j2:38
+msgid "Start the Pomodoro timer"
+msgstr ""
+
+#: templates/index.j2:39
+msgid "Work until the Pomodoro rings"
+msgstr ""
+
+#: templates/index.j2:40
+msgid "Take a short break (3-5 minutes)"
+msgstr ""
+
+#: templates/index.j2:42
+msgid ""
+"Keep on working, Pomodoro after Pomodoro, until the task at hand is "
+"finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
+msgstr ""
+
+#: templates/index.j2:46
+msgid "Rules & Tips"
+msgstr ""
+
+#: templates/index.j2:48
+msgid "If a task takes more than 5–7 Pomodoros, break it down"
+msgstr ""
+
+#: templates/index.j2:49
+msgid ""
+"If it takes less than one Pomodoro, add it up, and combine  it with "
+"another task"
+msgstr ""
+
+#: templates/index.j2:50
+msgid "Once a Pomodoro begins, it has to ring"
+msgstr ""
+
+#: templates/index.j2:51
+msgid "The next Pomodoro will go better"
+msgstr ""
+
+#: templates/index.j2:52
+msgid "Login to the service and track your progress"
+msgstr ""
+
+#: templates/index.j2:53
+msgid ""
+"The Pomodoro Technique shouldn’t be used for activities you do in your "
+"free time. Enjoy free time!"
+msgstr ""
+
