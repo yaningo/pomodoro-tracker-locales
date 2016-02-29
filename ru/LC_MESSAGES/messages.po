@@ -188,19 +188,19 @@ msgstr "Правила и советы"
 
 #: templates/index.j2:48
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr "Если задача требует более 5-7 «помидоров» разбейте ее на подзадачи"
+msgstr "Если задача требует более 5-7 «помидоров» - разбейте её на подзадачи"
 
 #: templates/index.j2:49
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
-"Если задача требует менее одного «помидора», скомбинируйте ее с другой "
+"Если задача требует менее одного «помидора» — скомбинируйте её с другой "
 "задачей"
 
 #: templates/index.j2:50
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr "Если вы начали «помидор», вы должны его закончить"
+msgstr "Если вы начали «помидор» — вы должны его закончить"
 
 #: templates/index.j2:51
 msgid "The next Pomodoro will go better"
