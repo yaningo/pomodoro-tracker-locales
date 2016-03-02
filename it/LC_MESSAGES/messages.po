@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-02-29 22:02+0300\n"
+"POT-Creation-Date: 2016-03-02 20:45+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -39,35 +39,39 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#: templates/base.j2:69
+#: templates/base.j2:69 templates/base.j2:96
 msgid "Russian"
 msgstr ""
 
-#: templates/base.j2:74
+#: templates/base.j2:74 templates/base.j2:101
 msgid "English"
 msgstr ""
 
-#: templates/base.j2:87
+#: templates/base.j2:78 templates/base.j2:105
+msgid "Your language"
+msgstr ""
+
+#: templates/base.j2:85
 msgid "Logout"
 msgstr ""
 
-#: templates/base.j2:91
+#: templates/base.j2:111
 msgid "Sign Up / Login"
 msgstr ""
 
-#: templates/base.j2:94
+#: templates/base.j2:114
 msgid "as Google user"
 msgstr ""
 
-#: templates/base.j2:97
+#: templates/base.j2:117
 msgid "as Facebook user"
 msgstr ""
 
-#: templates/base.j2:100
+#: templates/base.j2:120
 msgid "as Github user"
 msgstr ""
 
-#: templates/base.j2:117
+#: templates/base.j2:137
 msgid "version"
 msgstr ""
 
@@ -199,23 +203,27 @@ msgid ""
 "free time. Enjoy free time!"
 msgstr ""
 
-#: templates/news.j2:6
+#: templates/news.j2:11
 msgid "Upcomming features"
 msgstr ""
 
-#: templates/news.j2:17
+#: templates/news.j2:22
+msgid "March"
+msgstr ""
+
+#: templates/news.j2:32
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:29
+#: templates/news.j2:44
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:39
+#: templates/news.j2:54
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:52
+#: templates/news.j2:67
 msgid "August"
 msgstr ""
 
