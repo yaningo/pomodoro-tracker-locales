@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-03-02 20:45+0300\n"
+"POT-Creation-Date: 2016-03-03 11:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -332,9 +332,13 @@ msgstr "Перерыв окончен. Следующий помидор буд�
 msgid "The Pomodoro is running"
 msgstr "Помидор запущен"
 
+#: static/tags/pomodoro-todo.tag:10
+msgid "TODO"
+msgstr "Задачи"
+
 #: static/tags/pomodoro-todo.tag:23
 msgid "Add TODO"
-msgstr "Добавить TODO"
+msgstr "Добавить задачу"
 
 #: static/tags/pomodoro-todo.tag:26
 msgid "Favorites"

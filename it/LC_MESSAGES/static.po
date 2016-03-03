@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-03-02 20:45+0300\n"
+"POT-Creation-Date: 2016-03-03 11:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -328,6 +328,10 @@ msgstr ""
 
 #: static/tags/pomodoro-timer.tag:128
 msgid "The Pomodoro is running"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:10
+msgid "TODO"
 msgstr ""
 
 #: static/tags/pomodoro-todo.tag:23
