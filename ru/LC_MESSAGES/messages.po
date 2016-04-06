@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-03-03 11:51+0300\n"
+"POT-Creation-Date: 2016-04-05 21:38-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -20,59 +20,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.2.0\n"
 
-#: templates/base.j2:31
+#: templates/base.j2:33
+msgid "Feedback"
+msgstr "Идеи"
+
+#: templates/base.j2:43
 msgid "Login to track your productivity"
 msgstr "Войдите для использования"
 
-#: templates/base.j2:33
+#: templates/base.j2:45
 msgid "Stats"
 msgstr "Статистика"
 
-#: templates/base.j2:43
+#: templates/base.j2:55
 msgid "Login to log your work"
 msgstr "Войдите для использования"
 
-#: templates/base.j2:45
+#: templates/base.j2:57
 msgid "Worklog"
 msgstr "Журнал"
 
-#: templates/base.j2:57
-msgid "Admin"
-msgstr "Администрирование"
-
-#: templates/base.j2:69 templates/base.j2:96
+#: templates/base.j2:75 templates/base.j2:102
 msgid "Russian"
 msgstr "Русский"
 
-#: templates/base.j2:74 templates/base.j2:101
+#: templates/base.j2:80 templates/base.j2:107
 msgid "English"
 msgstr "Английский"
 
-#: templates/base.j2:78 templates/base.j2:105
+#: templates/base.j2:84 templates/base.j2:111
 msgid "Your language"
 msgstr ""
 
-#: templates/base.j2:85
+#: templates/base.j2:91
 msgid "Logout"
 msgstr "Выход"
 
-#: templates/base.j2:111
+#: templates/base.j2:117
 msgid "Sign Up / Login"
-msgstr "Зарегистрироваться / Войти"
+msgstr "Регистрация / Вход"
 
-#: templates/base.j2:114
+#: templates/base.j2:120
 msgid "as Google user"
 msgstr "используя Google"
 
-#: templates/base.j2:117
+#: templates/base.j2:123
 msgid "as Facebook user"
 msgstr "используя Facebook"
 
-#: templates/base.j2:120
+#: templates/base.j2:126
 msgid "as Github user"
 msgstr "используя Github"
 
-#: templates/base.j2:137
+#: templates/base.j2:143
 msgid "version"
 msgstr "Версия"
 
@@ -248,4 +248,7 @@ msgstr "Август"
 
 #~ msgid "Your language"
 #~ msgstr "Ваш язык"
+
+#~ msgid "Admin"
+#~ msgstr "Администрирование"
 
