@@ -10,8 +10,9 @@ other languages.
 
 Current status (languages are supported):
 
-* [English](https://github.com/klen/pomodoro-tracker-locales/tree/master/ru/LC_MESSAGES) (fully translated)
+* [English](https://github.com/klen/pomodoro-tracker-locales/tree/master/en/LC_MESSAGES) (fully translated)
 * [Russian](https://github.com/klen/pomodoro-tracker-locales/tree/master/ru/LC_MESSAGES) (fully translated)
+* [Spanish](https://github.com/klen/pomodoro-tracker-locales/tree/master/es/LC_MESSAGES) (fully translated)
 * [German](https://github.com/klen/pomodoro-tracker-locales/tree/master/de/LC_MESSAGES) (not started)
 * [French](https://github.com/klen/pomodoro-tracker-locales/tree/master/fr/LC_MESSAGES) (not started)
 * [Italian](https://github.com/klen/pomodoro-tracker-locales/tree/master/it/LC_MESSAGES) (not started)
