@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-03-03 11:51+0300\n"
+"POT-Creation-Date: 2016-05-13 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,59 +19,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.2.0\n"
 
-#: templates/base.j2:31
-msgid "Login to track your productivity"
-msgstr ""
-
 #: templates/base.j2:33
-msgid "Stats"
+msgid "Feedback"
 msgstr ""
 
 #: templates/base.j2:43
-msgid "Login to log your work"
+msgid "Login to track your productivity"
 msgstr ""
 
 #: templates/base.j2:45
-msgid "Worklog"
+msgid "Stats"
+msgstr ""
+
+#: templates/base.j2:55
+msgid "Login to log your work"
 msgstr ""
 
 #: templates/base.j2:57
-msgid "Admin"
+msgid "Worklog"
 msgstr ""
 
-#: templates/base.j2:69 templates/base.j2:96
+#: templates/base.j2:75
+msgid "Spainish"
+msgstr ""
+
+#: templates/base.j2:80 templates/base.j2:107
 msgid "Russian"
 msgstr ""
 
-#: templates/base.j2:74 templates/base.j2:101
+#: templates/base.j2:85 templates/base.j2:112
 msgid "English"
 msgstr ""
 
-#: templates/base.j2:78 templates/base.j2:105
+#: templates/base.j2:89 templates/base.j2:116
 msgid "Your language"
 msgstr ""
 
-#: templates/base.j2:85
+#: templates/base.j2:96
 msgid "Logout"
 msgstr ""
 
-#: templates/base.j2:111
+#: templates/base.j2:122
 msgid "Sign Up / Login"
 msgstr ""
 
-#: templates/base.j2:114
+#: templates/base.j2:125
 msgid "as Google user"
 msgstr ""
 
-#: templates/base.j2:117
+#: templates/base.j2:128
 msgid "as Facebook user"
 msgstr ""
 
-#: templates/base.j2:120
+#: templates/base.j2:131
 msgid "as Github user"
 msgstr ""
 
-#: templates/base.j2:137
+#: templates/base.j2:148
 msgid "version"
 msgstr ""
 
@@ -208,22 +212,32 @@ msgid "Upcomming features"
 msgstr ""
 
 #: templates/news.j2:22
+msgid "May"
+msgstr ""
+
+#: templates/news.j2:34
 msgid "March"
 msgstr ""
 
-#: templates/news.j2:32
+#: templates/news.j2:44
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:44
+#: templates/news.j2:56
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:54
+#: templates/news.j2:66
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:67
+#: templates/news.j2:79
 msgid "August"
 msgstr ""
+
+#~ msgid "Admin"
+#~ msgstr ""
+
+#~ msgid "Spain"
+#~ msgstr ""
 

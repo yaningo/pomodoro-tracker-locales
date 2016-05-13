@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-04-05 21:38-0700\n"
+"POT-Creation-Date: 2016-05-13 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -40,39 +40,43 @@ msgstr "Войдите для использования"
 msgid "Worklog"
 msgstr "Журнал"
 
-#: templates/base.j2:75 templates/base.j2:102
+#: templates/base.j2:75
+msgid "Spainish"
+msgstr "Испанский"
+
+#: templates/base.j2:80 templates/base.j2:107
 msgid "Russian"
 msgstr "Русский"
 
-#: templates/base.j2:80 templates/base.j2:107
+#: templates/base.j2:85 templates/base.j2:112
 msgid "English"
 msgstr "Английский"
 
-#: templates/base.j2:84 templates/base.j2:111
+#: templates/base.j2:89 templates/base.j2:116
 msgid "Your language"
 msgstr ""
 
-#: templates/base.j2:91
+#: templates/base.j2:96
 msgid "Logout"
 msgstr "Выход"
 
-#: templates/base.j2:117
+#: templates/base.j2:122
 msgid "Sign Up / Login"
 msgstr "Регистрация / Вход"
 
-#: templates/base.j2:120
+#: templates/base.j2:125
 msgid "as Google user"
 msgstr "используя Google"
 
-#: templates/base.j2:123
+#: templates/base.j2:128
 msgid "as Facebook user"
 msgstr "используя Facebook"
 
-#: templates/base.j2:126
+#: templates/base.j2:131
 msgid "as Github user"
 msgstr "используя Github"
 
-#: templates/base.j2:143
+#: templates/base.j2:148
 msgid "version"
 msgstr "Версия"
 
@@ -227,22 +231,26 @@ msgid "Upcomming features"
 msgstr "В разработке"
 
 #: templates/news.j2:22
+msgid "May"
+msgstr ""
+
+#: templates/news.j2:34
 msgid "March"
 msgstr "Март"
 
-#: templates/news.j2:32
+#: templates/news.j2:44
 msgid "Febrary"
 msgstr "Февраль"
 
-#: templates/news.j2:44
+#: templates/news.j2:56
 msgid "December"
 msgstr "Декабрь"
 
-#: templates/news.j2:54
+#: templates/news.j2:66
 msgid "September"
 msgstr "Сентябрь"
 
-#: templates/news.j2:67
+#: templates/news.j2:79
 msgid "August"
 msgstr "Август"
 

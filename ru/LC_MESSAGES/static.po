@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-03-03 11:51+0300\n"
+"POT-Creation-Date: 2016-05-13 10:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -21,7 +21,6 @@ msgstr ""
 "Generated-By: Babel 2.2.0\n"
 
 #: static/tags/activities.tag:7
-#, fuzzy
 msgid "Activities"
 msgstr "Избранное"
 
@@ -35,9 +34,10 @@ msgid "Category"
 msgstr "Категория"
 
 #: static/tags/activities.tag:14 static/tags/activities.tag:48
-#: static/tags/pomodoro-history.tag:7 static/tags/pomodoro-history.tag:30
-#: static/tags/pomodoro-records.tag:68 static/tags/pomodoro-records.tag:85
-#: static/tags/pomodoro-todo.tag:8 static/tags/pomodoro-todo.tag:48
+#: static/tags/feedback.tag:35 static/tags/pomodoro-history.tag:7
+#: static/tags/pomodoro-history.tag:30 static/tags/pomodoro-records.tag:68
+#: static/tags/pomodoro-records.tag:85 static/tags/pomodoro-todo.tag:8
+#: static/tags/pomodoro-todo.tag:48
 msgid "Description"
 msgstr "Описание"
 
@@ -54,30 +54,47 @@ msgstr "Добавить в избранное"
 msgid "Save (enter)"
 msgstr "Сохранить (ввод)"
 
-#: static/tags/activities.tag:51 static/tags/pomodoro-todo.tag:57
+#: static/tags/activities.tag:51 static/tags/activities.tag:58
+#: static/tags/pomodoro-todo.tag:57
 msgid "Remove"
 msgstr "Удалить"
 
-#: static/tags/activities.tag:56
+#: static/tags/activities.tag:60 static/tags/pomodoro-todo.tag:59
+msgid "Add more"
+msgstr "Добавить"
+
+#: static/tags/activities.tag:63
 msgid "Mark as daily task"
 msgstr "Повторять ежедневно"
 
-#: static/tags/activities.tag:59 static/tags/pomodoro-history.tag:38
+#: static/tags/activities.tag:66 static/tags/pomodoro-history.tag:38
 msgid "Add to TODO"
 msgstr "Добавить в список задач"
 
-#: static/tags/activities.tag:65 static/tags/pomodoro-history.tag:47
+#: static/tags/activities.tag:72 static/tags/pomodoro-history.tag:49
 #: static/tags/pomodoro-records.tag:115
 msgid "Double click/tap to edit items."
 msgstr "Двойной клик/тап для редактирования."
 
-#: static/tags/activities.tag:67
+#: static/tags/activities.tag:74
 msgid "The list is empty"
 msgstr "Список пуст."
 
-#: static/tags/activities.tag:68
+#: static/tags/activities.tag:75
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Попробуйте добавить задачу в избраное или используйте форму выше."
+
+#: static/tags/feedback.tag:28
+msgid "Write your ideas here"
+msgstr "Новый отзыв/предложение"
+
+#: static/tags/feedback.tag:32
+msgid "Title"
+msgstr "Заголовок"
+
+#: static/tags/feedback.tag:41
+msgid "That you for the feedback! Your message is awaiting moderation."
+msgstr "Спасибо за отзыв/предложение! Ваше сообщение ожидает модерации."
 
 #: static/tags/pomodoro-history.tag:8
 msgid "DONE"
@@ -87,11 +104,11 @@ msgstr "Сделано"
 msgid "Add to favorites"
 msgstr "Добавить в избранное"
 
-#: static/tags/pomodoro-history.tag:44 static/tags/pomodoro-records.tag:117
+#: static/tags/pomodoro-history.tag:45 static/tags/pomodoro-records.tag:117
 msgid "Records are empty"
 msgstr "Записей не найдено"
 
-#: static/tags/pomodoro-history.tag:45
+#: static/tags/pomodoro-history.tag:46
 msgid "Try to complete some pomodoros above"
 msgstr "Попробуйте выполнить несколько помидоров"
 
@@ -355,10 +372,6 @@ msgstr "Добавить в избранное"
 #: static/tags/pomodoro-todo.tag:55
 msgid "Drag/Move to sort"
 msgstr "Перетащите для сортировки"
-
-#: static/tags/pomodoro-todo.tag:59
-msgid "Add more"
-msgstr "Добавить"
 
 #: static/tags/pomodoro-todo.tag:65
 msgid "TODO list is empty"
