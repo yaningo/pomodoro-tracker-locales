@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-05-13 10:30+0300\n"
+"POT-Creation-Date: 2016-05-19 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -33,7 +33,7 @@ msgid "Category"
 msgstr "Categoría"
 
 #: static/tags/activities.tag:14 static/tags/activities.tag:48
-#: static/tags/feedback.tag:35 static/tags/pomodoro-history.tag:7
+#: static/tags/feedback.tag:76 static/tags/pomodoro-history.tag:7
 #: static/tags/pomodoro-history.tag:30 static/tags/pomodoro-records.tag:68
 #: static/tags/pomodoro-records.tag:85 static/tags/pomodoro-todo.tag:8
 #: static/tags/pomodoro-todo.tag:48
@@ -48,17 +48,12 @@ msgstr "Descripción corta"
 msgid "Add Activity"
 msgstr "Añade Actividad"
 
-#: static/tags/activities.tag:50 static/tags/pomodoro-history.tag:32
-#: static/tags/pomodoro-records.tag:87 static/tags/pomodoro-todo.tag:50
-msgid "Save (enter)"
-msgstr "Guardar (intro)"
-
 #: static/tags/activities.tag:51 static/tags/activities.tag:58
-#: static/tags/pomodoro-todo.tag:57
+#: static/tags/pomodoro-todo.tag:58
 msgid "Remove"
 msgstr "Eliminar"
 
-#: static/tags/activities.tag:60 static/tags/pomodoro-todo.tag:59
+#: static/tags/activities.tag:60 static/tags/pomodoro-todo.tag:60
 msgid "Add more"
 msgstr "Añadir más"
 
@@ -70,7 +65,7 @@ msgstr "Marcar como tarea diaria"
 msgid "Add to TODO"
 msgstr "Añadir a TODO"
 
-#: static/tags/activities.tag:72 static/tags/pomodoro-history.tag:49
+#: static/tags/activities.tag:72 static/tags/pomodoro-history.tag:48
 #: static/tags/pomodoro-records.tag:115
 msgid "Double click/tap to edit items."
 msgstr "Doble click/tap para editar elementos."
@@ -83,21 +78,43 @@ msgstr "La lista está vacía"
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
 
-#: static/tags/feedback.tag:28
+#: static/tags/feedback.tag:3
+msgid "New"
+msgstr "Nuevo"
+
+#: static/tags/feedback.tag:4 static/tags/pomodoro-history.tag:8
+msgid "DONE"
+msgstr "HECHO"
+
+#: static/tags/feedback.tag:20 static/tags/feedback.tag:45
+msgid "Like"
+msgstr "Gustar"
+
+#: static/tags/feedback.tag:21 static/tags/feedback.tag:46
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "gustar"
+msgstr[1] "gustos"
+
+#: static/tags/feedback.tag:69
 msgid "Write your ideas here"
 msgstr "Escribe tus ideas aquí"
 
-#: static/tags/feedback.tag:32
+#: static/tags/feedback.tag:73
 msgid "Title"
 msgstr "Título"
 
-#: static/tags/feedback.tag:41
+#: static/tags/feedback.tag:78
+msgid "Create"
+msgstr "Crear"
+
+#: static/tags/feedback.tag:82
 msgid "That you for the feedback! Your message is awaiting moderation."
 msgstr "Que por los comentarios! Su mensaje está en espera de la moderación."
 
-#: static/tags/pomodoro-history.tag:8
-msgid "DONE"
-msgstr "HECHO"
+#: static/tags/pomodoro-history.tag:27 static/tags/pomodoro-todo.tag:45
+msgid "no description"
+msgstr "sin descripción"
 
 #: static/tags/pomodoro-history.tag:37
 msgid "Add to favorites"
@@ -360,27 +377,27 @@ msgstr "Añadir a TODO"
 msgid "Favorites"
 msgstr "Favoritos"
 
-#: static/tags/pomodoro-todo.tag:45
-msgid "no description"
-msgstr "sin descripción"
-
 #: static/tags/pomodoro-todo.tag:51
+msgid "Mark as done"
+msgstr ""
+
+#: static/tags/pomodoro-todo.tag:52
 msgid "Pin to favorites"
 msgstr "Apuntar como favorito"
 
-#: static/tags/pomodoro-todo.tag:55
+#: static/tags/pomodoro-todo.tag:56
 msgid "Drag/Move to sort"
 msgstr "Arrastrar/Mover para ordenar"
 
-#: static/tags/pomodoro-todo.tag:65
+#: static/tags/pomodoro-todo.tag:66
 msgid "TODO list is empty"
 msgstr "La lista TODO está vacía"
 
-#: static/tags/pomodoro-todo.tag:66
+#: static/tags/pomodoro-todo.tag:67
 msgid "Try to add some tasks use the form above"
 msgstr "Intenta añadir algunas tareas usando el formulario de arriba"
 
-#: static/tags/pomodoro-todo.tag:68
+#: static/tags/pomodoro-todo.tag:69
 msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
 msgstr ""
 "Doble click/tap para editar elementos. Drag&Drop/Toca en el número para "
@@ -423,4 +440,7 @@ msgstr "Media por día"
 #: static/tags/stats/info.tag:57
 msgid "Time spent"
 msgstr "Tiempo empleado"
+
+#~ msgid "Save (enter)"
+#~ msgstr "Guardar (intro)"
 

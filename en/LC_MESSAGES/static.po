@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-05-13 10:29+0300\n"
+"POT-Creation-Date: 2016-05-19 11:49+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -33,7 +33,7 @@ msgid "Category"
 msgstr ""
 
 #: static/tags/activities.tag:14 static/tags/activities.tag:48
-#: static/tags/feedback.tag:35 static/tags/pomodoro-history.tag:7
+#: static/tags/feedback.tag:76 static/tags/pomodoro-history.tag:7
 #: static/tags/pomodoro-history.tag:30 static/tags/pomodoro-records.tag:68
 #: static/tags/pomodoro-records.tag:85 static/tags/pomodoro-todo.tag:8
 #: static/tags/pomodoro-todo.tag:48
@@ -48,17 +48,12 @@ msgstr ""
 msgid "Add Activity"
 msgstr ""
 
-#: static/tags/activities.tag:50 static/tags/pomodoro-history.tag:32
-#: static/tags/pomodoro-records.tag:87 static/tags/pomodoro-todo.tag:50
-msgid "Save (enter)"
-msgstr ""
-
 #: static/tags/activities.tag:51 static/tags/activities.tag:58
-#: static/tags/pomodoro-todo.tag:57
+#: static/tags/pomodoro-todo.tag:58
 msgid "Remove"
 msgstr ""
 
-#: static/tags/activities.tag:60 static/tags/pomodoro-todo.tag:59
+#: static/tags/activities.tag:60 static/tags/pomodoro-todo.tag:60
 msgid "Add more"
 msgstr ""
 
@@ -70,7 +65,7 @@ msgstr ""
 msgid "Add to TODO"
 msgstr ""
 
-#: static/tags/activities.tag:72 static/tags/pomodoro-history.tag:49
+#: static/tags/activities.tag:72 static/tags/pomodoro-history.tag:48
 #: static/tags/pomodoro-records.tag:115
 msgid "Double click/tap to edit items."
 msgstr ""
@@ -83,20 +78,42 @@ msgstr ""
 msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
 
-#: static/tags/feedback.tag:28
+#: static/tags/feedback.tag:3
+msgid "New"
+msgstr ""
+
+#: static/tags/feedback.tag:4 static/tags/pomodoro-history.tag:8
+msgid "DONE"
+msgstr ""
+
+#: static/tags/feedback.tag:20 static/tags/feedback.tag:45
+msgid "Like"
+msgstr ""
+
+#: static/tags/feedback.tag:21 static/tags/feedback.tag:46
+msgid "like"
+msgid_plural "likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: static/tags/feedback.tag:69
 msgid "Write your ideas here"
 msgstr ""
 
-#: static/tags/feedback.tag:32
+#: static/tags/feedback.tag:73
 msgid "Title"
 msgstr ""
 
-#: static/tags/feedback.tag:41
+#: static/tags/feedback.tag:78
+msgid "Create"
+msgstr ""
+
+#: static/tags/feedback.tag:82
 msgid "That you for the feedback! Your message is awaiting moderation."
 msgstr ""
 
-#: static/tags/pomodoro-history.tag:8
-msgid "DONE"
+#: static/tags/pomodoro-history.tag:27 static/tags/pomodoro-todo.tag:45
+msgid "no description"
 msgstr ""
 
 #: static/tags/pomodoro-history.tag:37
@@ -360,27 +377,27 @@ msgstr ""
 msgid "Favorites"
 msgstr ""
 
-#: static/tags/pomodoro-todo.tag:45
-msgid "no description"
+#: static/tags/pomodoro-todo.tag:51
+msgid "Mark as done"
 msgstr ""
 
-#: static/tags/pomodoro-todo.tag:51
+#: static/tags/pomodoro-todo.tag:52
 msgid "Pin to favorites"
 msgstr ""
 
-#: static/tags/pomodoro-todo.tag:55
+#: static/tags/pomodoro-todo.tag:56
 msgid "Drag/Move to sort"
 msgstr ""
 
-#: static/tags/pomodoro-todo.tag:65
+#: static/tags/pomodoro-todo.tag:66
 msgid "TODO list is empty"
 msgstr ""
 
-#: static/tags/pomodoro-todo.tag:66
+#: static/tags/pomodoro-todo.tag:67
 msgid "Try to add some tasks use the form above"
 msgstr ""
 
-#: static/tags/pomodoro-todo.tag:68
+#: static/tags/pomodoro-todo.tag:69
 msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
 msgstr ""
 
@@ -421,4 +438,7 @@ msgstr ""
 #: static/tags/stats/info.tag:57
 msgid "Time spent"
 msgstr ""
+
+#~ msgid "Save (enter)"
+#~ msgstr ""
 
