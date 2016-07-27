@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-05-19 11:49+0300\n"
+"POT-Creation-Date: 2016-07-27 23:43+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -33,7 +33,7 @@ msgid "Category"
 msgstr "Categoría"
 
 #: static/tags/activities.tag:14 static/tags/activities.tag:48
-#: static/tags/feedback.tag:76 static/tags/pomodoro-history.tag:7
+#: static/tags/feedback.tag:78 static/tags/pomodoro-history.tag:7
 #: static/tags/pomodoro-history.tag:30 static/tags/pomodoro-records.tag:68
 #: static/tags/pomodoro-records.tag:85 static/tags/pomodoro-todo.tag:8
 #: static/tags/pomodoro-todo.tag:48
@@ -78,37 +78,37 @@ msgstr "La lista está vacía"
 msgid "Try to mark TODO as activity or use the form above"
 msgstr "Intenta marcar TODO como actividad o usa el formulario de arriba"
 
-#: static/tags/feedback.tag:3
+#: static/tags/feedback.tag:4
 msgid "New"
 msgstr "Nuevo"
 
-#: static/tags/feedback.tag:4 static/tags/pomodoro-history.tag:8
+#: static/tags/feedback.tag:6 static/tags/pomodoro-history.tag:8
 msgid "DONE"
 msgstr "HECHO"
 
-#: static/tags/feedback.tag:20 static/tags/feedback.tag:45
+#: static/tags/feedback.tag:22 static/tags/feedback.tag:47
 msgid "Like"
 msgstr "Gustar"
 
-#: static/tags/feedback.tag:21 static/tags/feedback.tag:46
+#: static/tags/feedback.tag:23 static/tags/feedback.tag:48
 msgid "like"
 msgid_plural "likes"
 msgstr[0] "gustar"
 msgstr[1] "gustos"
 
-#: static/tags/feedback.tag:69
+#: static/tags/feedback.tag:71
 msgid "Write your ideas here"
 msgstr "Escribe tus ideas aquí"
 
-#: static/tags/feedback.tag:73
+#: static/tags/feedback.tag:75
 msgid "Title"
 msgstr "Título"
 
-#: static/tags/feedback.tag:78
+#: static/tags/feedback.tag:80
 msgid "Create"
 msgstr "Crear"
 
-#: static/tags/feedback.tag:82
+#: static/tags/feedback.tag:84
 msgid "That you for the feedback! Your message is awaiting moderation."
 msgstr "Que por los comentarios! Su mensaje está en espera de la moderación."
 
@@ -341,27 +341,27 @@ msgstr "PARAR"
 msgid "SKIP"
 msgstr "OMITIR"
 
-#: static/tags/pomodoro-timer.tag:89
+#: static/tags/pomodoro-timer.tag:93
 msgid "POMODORO"
 msgstr "POMODORO"
 
-#: static/tags/pomodoro-timer.tag:90
+#: static/tags/pomodoro-timer.tag:94
 msgid "TAKE A SHORT BREAK"
 msgstr "TOMA UN DESCANSO CORTO"
 
-#: static/tags/pomodoro-timer.tag:91
+#: static/tags/pomodoro-timer.tag:95
 msgid "TAKE A LONG BREAK"
 msgstr "TOMA UN DESCANSO LARGO"
 
-#: static/tags/pomodoro-timer.tag:102
+#: static/tags/pomodoro-timer.tag:106
 msgid "Pomodoro is finished. Have a break."
 msgstr "Pomodoro finalizado. Toma un descanso."
 
-#: static/tags/pomodoro-timer.tag:106
+#: static/tags/pomodoro-timer.tag:110
 msgid "Break is over. The next pomodoro will go better!"
 msgstr "Fin del descanso. ¡El siguiente pomodoro será mejor! "
 
-#: static/tags/pomodoro-timer.tag:128
+#: static/tags/pomodoro-timer.tag:132
 msgid "The Pomodoro is running"
 msgstr "El Pomodoro está corriendo"
 
@@ -397,7 +397,7 @@ msgstr "La lista TODO está vacía"
 msgid "Try to add some tasks use the form above"
 msgstr "Intenta añadir algunas tareas usando el formulario de arriba"
 
-#: static/tags/pomodoro-todo.tag:69
+#: static/tags/pomodoro-todo.tag:70
 msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
 msgstr ""
 "Doble click/tap para editar elementos. Drag&Drop/Toca en el número para "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-05-19 11:49+0300\n"
+"POT-Creation-Date: 2016-07-27 23:42+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -40,7 +40,7 @@ msgid "Worklog"
 msgstr ""
 
 #: templates/base.j2:75
-msgid "Spainish"
+msgid "Spanish"
 msgstr ""
 
 #: templates/base.j2:80 templates/base.j2:107
@@ -215,23 +215,23 @@ msgstr ""
 msgid "May"
 msgstr ""
 
-#: templates/news.j2:34
+#: templates/news.j2:35
 msgid "March"
 msgstr ""
 
-#: templates/news.j2:44
+#: templates/news.j2:45
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:56
+#: templates/news.j2:57
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:66
+#: templates/news.j2:67
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:79
+#: templates/news.j2:80
 msgid "August"
 msgstr ""
 
@@ -240,4 +240,3 @@ msgstr ""
 
 #~ msgid "Spain"
 #~ msgstr ""
-
