@@ -21,19 +21,19 @@ msgstr ""
 
 #: templates/base.j2:33
 msgid "Feedback"
-msgstr ""
+msgstr "Commento"
 
 #: templates/base.j2:43
 msgid "Login to track your productivity"
-msgstr ""
+msgstr "Entra per tracciare la tua produttività"
 
 #: templates/base.j2:45
 msgid "Stats"
-msgstr ""
+msgstr "Statistiche"
 
 #: templates/base.j2:55
 msgid "Login to log your work"
-msgstr ""
+msgstr "Entra per salvare il tuo lavoro"
 
 #: templates/base.j2:57
 msgid "Worklog"
@@ -41,47 +41,47 @@ msgstr ""
 
 #: templates/base.j2:75
 msgid "Spanish"
-msgstr ""
+msgstr "Spagnolo"
 
 #: templates/base.j2:80 templates/base.j2:107
 msgid "Russian"
-msgstr ""
+msgstr "Russo"
 
 #: templates/base.j2:85 templates/base.j2:112
 msgid "English"
-msgstr ""
+msgstr "Inglese"
 
 #: templates/base.j2:89 templates/base.j2:116
 msgid "Your language"
-msgstr ""
+msgstr "La tua lingua"
 
 #: templates/base.j2:96
 msgid "Logout"
-msgstr ""
+msgstr "Esci"
 
 #: templates/base.j2:122
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Registrati / Entra"
 
 #: templates/base.j2:125
 msgid "as Google user"
-msgstr ""
+msgstr "come utente Google"
 
 #: templates/base.j2:128
 msgid "as Facebook user"
-msgstr ""
+msgstr "come utente Facebook"
 
 #: templates/base.j2:131
 msgid "as Github user"
-msgstr ""
+msgstr "come utente Github"
 
 #: templates/base.j2:148
 msgid "version"
-msgstr ""
+msgstr "versione"
 
 #: templates/index.j2:12
 msgid "What is it?"
-msgstr ""
+msgstr "Cosa è questo?"
 
 #: templates/index.j2:13
 msgid ""
@@ -100,7 +100,7 @@ msgstr ""
 
 #: templates/index.j2:18
 msgid "The Goals"
-msgstr ""
+msgstr "Gli obbiettivi"
 
 #: templates/index.j2:19
 msgid ""
@@ -145,7 +145,7 @@ msgstr ""
 
 #: templates/index.j2:34
 msgid "The Basics"
-msgstr ""
+msgstr "Le basi"
 
 #: templates/index.j2:35
 msgid ""
@@ -155,19 +155,19 @@ msgstr ""
 
 #: templates/index.j2:36
 msgid "Start working:"
-msgstr ""
+msgstr "Inizia a lavorare:"
 
 #: templates/index.j2:38
 msgid "Start the Pomodoro timer"
-msgstr ""
+msgstr "Avvia il contaminuti Pomodoro"
 
 #: templates/index.j2:39
 msgid "Work until the Pomodoro rings"
-msgstr ""
+msgstr "Lavora fino a che il Pomodoro squilla"
 
 #: templates/index.j2:40
 msgid "Take a short break (3-5 minutes)"
-msgstr ""
+msgstr "Prendi una breve pausa (3-5 minuti)"
 
 #: templates/index.j2:42
 msgid ""
@@ -177,11 +177,11 @@ msgstr ""
 
 #: templates/index.j2:46
 msgid "Rules & Tips"
-msgstr ""
+msgstr "Regole & Suggerimenti"
 
 #: templates/index.j2:48
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr ""
+msgstr "Se un'attività dura più di 5-6 Pomodori, scomponila"
 
 #: templates/index.j2:49
 msgid ""
@@ -209,35 +209,35 @@ msgstr ""
 
 #: templates/news.j2:11
 msgid "Upcomming features"
-msgstr ""
+msgstr "Prossime funzionalità"
 
 #: templates/news.j2:22
 msgid "May"
-msgstr ""
+msgstr "Maggio"
 
 #: templates/news.j2:35
 msgid "March"
-msgstr ""
+msgstr "Marzo"
 
 #: templates/news.j2:45
 msgid "Febrary"
-msgstr ""
+msgstr "Febbraio"
 
 #: templates/news.j2:57
 msgid "December"
-msgstr ""
+msgstr "Dicembre"
 
 #: templates/news.j2:67
 msgid "September"
-msgstr ""
+msgstr "Settembre"
 
 #: templates/news.j2:80
 msgid "August"
-msgstr ""
+msgstr "Agosto"
 
 #~ msgid "Admin"
-#~ msgstr ""
+#~ msgstr "Amministratore"
 
 #~ msgid "Spain"
-#~ msgstr ""
+#~ msgstr "Spagna"
 
