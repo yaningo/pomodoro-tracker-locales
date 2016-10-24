@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.11.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-07-27 23:43+0300\n"
+"POT-Creation-Date: 2016-10-24 12:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Chema Cortés <dev.xtrem@gmail.com>\n"
 "Language: es\n"
@@ -39,43 +39,47 @@ msgstr "Inicia sesión para registrar tu trabajo"
 msgid "Worklog"
 msgstr "Registro"
 
-#: templates/base.j2:75
-msgid "Spanish"
-msgstr "Español"
-
-#: templates/base.j2:80 templates/base.j2:107
-msgid "Russian"
-msgstr "Ruso"
-
-#: templates/base.j2:85 templates/base.j2:112
+#: templates/base.j2:75 templates/base.j2:112
 msgid "English"
 msgstr "Inglés"
 
-#: templates/base.j2:89 templates/base.j2:116
+#: templates/base.j2:80 templates/base.j2:117
+msgid "Italian"
+msgstr ""
+
+#: templates/base.j2:85 templates/base.j2:122
+msgid "Russian"
+msgstr "Ruso"
+
+#: templates/base.j2:90 templates/base.j2:127
+msgid "Spanish"
+msgstr "Español"
+
+#: templates/base.j2:94 templates/base.j2:131
 msgid "Your language"
 msgstr "Tu idioma"
 
-#: templates/base.j2:96
+#: templates/base.j2:101
 msgid "Logout"
 msgstr "Salir"
 
-#: templates/base.j2:122
+#: templates/base.j2:137
 msgid "Sign Up / Login"
 msgstr "Apuntarse / Login"
 
-#: templates/base.j2:125
+#: templates/base.j2:140
 msgid "as Google user"
 msgstr "como usario Google"
 
-#: templates/base.j2:128
+#: templates/base.j2:143
 msgid "as Facebook user"
 msgstr "como usuario Facebook"
 
-#: templates/base.j2:131
+#: templates/base.j2:146
 msgid "as Github user"
 msgstr "como usuario Github"
 
-#: templates/base.j2:148
+#: templates/base.j2:163
 msgid "version"
 msgstr "versión"
 
