@@ -38,41 +38,41 @@ msgstr ""
 #: static/tags/pomodoro-records.tag:85 static/tags/pomodoro-todo.tag:8
 #: static/tags/pomodoro-todo.tag:48
 msgid "Description"
-msgstr ""
+msgstr "Descrizione"
 
 #: static/tags/activities.tag:25 static/tags/pomodoro-todo.tag:21
 msgid "Short description"
-msgstr ""
+msgstr "Breve descrizione"
 
 #: static/tags/activities.tag:27
 msgid "Add Activity"
-msgstr ""
+msgstr "Aggiungi attività"
 
 #: static/tags/activities.tag:51 static/tags/activities.tag:58
 #: static/tags/pomodoro-todo.tag:58
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 #: static/tags/activities.tag:60 static/tags/pomodoro-todo.tag:60
 msgid "Add more"
-msgstr ""
+msgstr "Aggiungi"
 
 #: static/tags/activities.tag:63
 msgid "Mark as daily task"
-msgstr ""
+msgstr "Marchia come atività giornaliera"
 
 #: static/tags/activities.tag:66 static/tags/pomodoro-history.tag:38
 msgid "Add to TODO"
-msgstr ""
+msgstr "Aggiungi ai TODO"
 
 #: static/tags/activities.tag:72 static/tags/pomodoro-history.tag:48
 #: static/tags/pomodoro-records.tag:115
 msgid "Double click/tap to edit items."
-msgstr ""
+msgstr "Doppio click/tap per modificare gli elementi"
 
 #: static/tags/activities.tag:74
 msgid "The list is empty"
-msgstr ""
+msgstr "La lista è vuota"
 
 #: static/tags/activities.tag:75
 msgid "Try to mark TODO as activity or use the form above"
@@ -80,15 +80,15 @@ msgstr ""
 
 #: static/tags/feedback.tag:4
 msgid "New"
-msgstr ""
+msgstr "Nuovo"
 
 #: static/tags/feedback.tag:6 static/tags/pomodoro-history.tag:8
 msgid "DONE"
-msgstr ""
+msgstr "FATTO"
 
 #: static/tags/feedback.tag:22 static/tags/feedback.tag:47
 msgid "Like"
-msgstr ""
+msgstr "Mi piace"
 
 #: static/tags/feedback.tag:23 static/tags/feedback.tag:48
 msgid "like"
@@ -98,15 +98,15 @@ msgstr[1] ""
 
 #: static/tags/feedback.tag:71
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Scrivi le tue idee qui"
 
 #: static/tags/feedback.tag:75
 msgid "Title"
-msgstr ""
+msgstr "Titolo"
 
 #: static/tags/feedback.tag:80
 msgid "Create"
-msgstr ""
+msgstr "Crea"
 
 #: static/tags/feedback.tag:84
 msgid "That you for the feedback! Your message is awaiting moderation."
@@ -114,11 +114,11 @@ msgstr ""
 
 #: static/tags/pomodoro-history.tag:27 static/tags/pomodoro-todo.tag:45
 msgid "no description"
-msgstr ""
+msgstr "nessuna descrizione"
 
 #: static/tags/pomodoro-history.tag:37
 msgid "Add to favorites"
-msgstr ""
+msgstr "Aggiungi ai preferiti"
 
 #: static/tags/pomodoro-history.tag:45 static/tags/pomodoro-records.tag:117
 msgid "Records are empty"
@@ -126,11 +126,11 @@ msgstr ""
 
 #: static/tags/pomodoro-history.tag:46
 msgid "Try to complete some pomodoros above"
-msgstr ""
+msgstr "Prova a completare alcuni pomodori sopra"
 
 #: static/tags/pomodoro-records.tag:4 static/tags/pomodoro-settings.tag:195
 msgid "Categories"
-msgstr ""
+msgstr "Categorie"
 
 #: static/tags/pomodoro-records.tag:18
 msgid "Records"
@@ -138,19 +138,19 @@ msgstr ""
 
 #: static/tags/pomodoro-records.tag:22
 msgid "Yesterday"
-msgstr ""
+msgstr "Ieri"
 
 #: static/tags/pomodoro-records.tag:24
 msgid "Last 7 days"
-msgstr ""
+msgstr "Ultimi 7 giorni"
 
 #: static/tags/pomodoro-records.tag:26 static/tags/stats/chart.tag:4
 msgid "Last 30 days"
-msgstr ""
+msgstr "Ultimi 30 giorni"
 
 #: static/tags/pomodoro-records.tag:28
 msgid "Last 90 days"
-msgstr ""
+msgstr "Ultimi 90 giorni"
 
 #: static/tags/pomodoro-records.tag:29
 msgid "Custom"
@@ -158,31 +158,31 @@ msgstr ""
 
 #: static/tags/pomodoro-records.tag:43
 msgid "From"
-msgstr ""
+msgstr "Da"
 
 #: static/tags/pomodoro-records.tag:51
 msgid "To"
-msgstr ""
+msgstr "A"
 
 #: static/tags/pomodoro-records.tag:66
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: static/tags/pomodoro-records.tag:69
 msgid "Duration"
-msgstr ""
+msgstr "Durata"
 
 #: static/tags/pomodoro-records.tag:89 static/tags/pomodoro-records.tag:102
 msgid "Delete"
-msgstr ""
+msgstr "Cancella"
 
 #: static/tags/pomodoro-records.tag:100
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Sei sicuro di volere eliminare"
 
 #: static/tags/pomodoro-records.tag:103
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: static/tags/pomodoro-records.tag:118
 msgid "Try to complete some pomodoros or choose a different period"
@@ -190,7 +190,7 @@ msgstr ""
 
 #: static/tags/pomodoro-records.tag:124
 msgid "Import/Export"
-msgstr ""
+msgstr "Importa/Esporta"
 
 #: static/tags/pomodoro-records.tag:128
 msgid "Export the records as CSV"
@@ -198,40 +198,40 @@ msgstr ""
 
 #: static/tags/pomodoro-records.tag:135
 msgid "Import CSV"
-msgstr ""
+msgstr "Importa CVS"
 
 #: static/tags/pomodoro-settings.tag:8
 msgid "Preferences"
-msgstr ""
+msgstr "Preferenze"
 
 #: static/tags/pomodoro-settings.tag:15
 msgid "Timer"
-msgstr ""
+msgstr "Contaminuti"
 
 #: static/tags/pomodoro-settings.tag:18
 msgid "Notifications"
-msgstr ""
+msgstr "Notifiche"
 
 #: static/tags/pomodoro-settings.tag:21
 msgid "Misc"
-msgstr ""
+msgstr "Vario"
 
 #: static/tags/pomodoro-settings.tag:30
 msgid "Pomodoro duration:"
-msgstr ""
+msgstr "Durata pomodoro:"
 
 #: static/tags/pomodoro-settings.tag:33 static/tags/pomodoro-settings.tag:40
 #: static/tags/pomodoro-settings.tag:47
 msgid "in minutes"
-msgstr ""
+msgstr "in minuti"
 
 #: static/tags/pomodoro-settings.tag:37
 msgid "Short break duration:"
-msgstr ""
+msgstr "Durata pausa breve:"
 
 #: static/tags/pomodoro-settings.tag:44
 msgid "Long break duration:"
-msgstr ""
+msgstr "Durata pausa lunga:"
 
 #: static/tags/pomodoro-settings.tag:51
 msgid "Long break delay:"
@@ -239,7 +239,7 @@ msgstr ""
 
 #: static/tags/pomodoro-settings.tag:54
 msgid "in pomodoros"
-msgstr ""
+msgstr "in pomodori"
 
 #: static/tags/pomodoro-settings.tag:63
 msgid "Auto start pomodoros"
