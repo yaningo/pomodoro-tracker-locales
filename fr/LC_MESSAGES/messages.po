@@ -21,71 +21,71 @@ msgstr ""
 
 #: templates/base.j2:33
 msgid "Feedback"
-msgstr ""
+msgstr "Assistance / Suggestions"
 
 #: templates/base.j2:43
 msgid "Login to track your productivity"
-msgstr ""
+msgstr "Connectez-vous pour suivre votre productivité"
 
 #: templates/base.j2:45
 msgid "Stats"
-msgstr ""
+msgstr "Stats"
 
 #: templates/base.j2:55
 msgid "Login to log your work"
-msgstr ""
+msgstr "Connectez-vous pour consigner votre travail"
 
 #: templates/base.j2:57
 msgid "Worklog"
-msgstr ""
+msgstr "Historique"
 
 #: templates/base.j2:75 templates/base.j2:112
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 #: templates/base.j2:80 templates/base.j2:117
 msgid "Italian"
-msgstr ""
+msgstr "Italien"
 
 #: templates/base.j2:85 templates/base.j2:122
 msgid "Russian"
-msgstr ""
+msgstr "Russe"
 
 #: templates/base.j2:90 templates/base.j2:127
 msgid "Spanish"
-msgstr ""
+msgstr "Espagnol"
 
 #: templates/base.j2:94 templates/base.j2:131
 msgid "Your language"
-msgstr ""
+msgstr "Votre langue"
 
 #: templates/base.j2:101
 msgid "Logout"
-msgstr ""
+msgstr "Déconnexion"
 
 #: templates/base.j2:137
 msgid "Sign Up / Login"
-msgstr ""
+msgstr "Inscription / Connexion"
 
 #: templates/base.j2:140
 msgid "as Google user"
-msgstr ""
+msgstr "avec votre compte Google"
 
 #: templates/base.j2:143
 msgid "as Facebook user"
-msgstr ""
+msgstr "avec votre compte Facebook"
 
 #: templates/base.j2:146
 msgid "as Github user"
-msgstr ""
+msgstr "avec votre compte GitHub"
 
 #: templates/base.j2:163
 msgid "version"
-msgstr ""
+msgstr "version"
 
 #: templates/index.j2:12
 msgid "What is it?"
-msgstr ""
+msgstr "Qu'est-ce que la technique Pomodoro?"
 
 #: templates/index.j2:13
 msgid ""
@@ -244,4 +244,3 @@ msgstr ""
 
 #~ msgid "Spain"
 #~ msgstr ""
-
