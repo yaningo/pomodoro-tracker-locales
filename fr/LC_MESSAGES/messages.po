@@ -106,10 +106,14 @@ msgid ""
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
+"Le but de la technique Pomodoro est de nous permettre de dompter le temps "
+"et de l’utiliser de manière rationnelle afin de faire ce que nous devons "
+"faire, de la façon dont nous voulons le faire, nous donnant le pouvoir "
+"d’améliorer continuellement notre façon de travailler ou d'étudier."
 
 #: templates/index.j2:18
 msgid "The Goals"
-msgstr "Objectif"
+msgstr "Objectifs"
 
 #: templates/index.j2:19
 msgid ""
@@ -117,9 +121,9 @@ msgid ""
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"L’objectif de la technique Pomodoro est de fournir un outil/processus "
-"simple afin d’améliorer votre productivité (ainsi que celle des personnes "
-"travaillant avec vous), ce qui vous permettra de:"
+"La technique Pomodoro fournit un outil/processus simple afin d’améliorer "
+"votre productivité (ainsi que celle de vos collègues) ce qui vous "
+"permettra de:"
 
 #: templates/index.j2:21
 msgid "Alleviate anxiety linked to becoming"
@@ -189,13 +193,13 @@ msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
-"Continuez, Pomodoro après Pomodoro, jusqu'à ce que la tâche soit "
-"terminée. Après chaque série de 4 Pomodoros, faites une pause "
-"plus longue (15–30 minutes)."
+"Continuez vos efforts, Pomodoro après Pomodoro, jusqu'à ce que la "
+"tâche soit terminée. Après chaque série de 4 Pomodoros, faites une "
+"pause plus longue (15–30 minutes)."
 
 #: templates/index.j2:46
 msgid "Rules & Tips"
-msgstr ""
+msgstr "Règles et conseils"
 
 #: templates/index.j2:48
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
@@ -207,7 +211,7 @@ msgid ""
 "another task"
 msgstr ""
 "Si cette tâche demande moins d’un Pomodoro, consolidez-la avec "
-" d'autres"
+"d'autres"
 
 
 #: templates/index.j2:50
@@ -216,7 +220,7 @@ msgstr "Un Pomodoro entamé doit sonner"
 
 #: templates/index.j2:51
 msgid "The next Pomodoro will go better"
-msgstr "Le prochain Pomodoro sera meilleure"
+msgstr "Le prochain Pomodoro sera meilleur"
 
 #: templates/index.j2:52
 msgid "Login to the service and track your progress"
@@ -231,8 +235,8 @@ msgstr ""
 "auquelles vous consacrez votre temps libre. Profitez de votre temps libre!"
 
 #: templates/news.j2:11
-msgid "Upcomming features"
-msgstr ""
+msgid "Upcoming features"
+msgstr "Prochaines améliorations"
 
 #: templates/news.j2:22
 msgid "May"
@@ -256,7 +260,7 @@ msgstr "Septembre"
 
 #: templates/news.j2:80
 msgid "August"
-msgstr "Aôut"
+msgstr "Août"
 
 #~ msgid "Admin"
 #~ msgstr ""
