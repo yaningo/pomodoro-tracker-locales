@@ -21,7 +21,7 @@ msgstr ""
 
 #: static/tags/activities.tag:7
 msgid "Activities"
-msgstr ""
+msgstr "Atividades"
 
 #: static/tags/activities.tag:13 static/tags/activities.tag:20
 #: static/tags/activities.tag:43 static/tags/pomodoro-history.tag:6
@@ -279,19 +279,19 @@ msgstr "Esconder notificações"
 
 #: static/tags/pomodoro-settings.tag:146
 msgid "in 2 seconds"
-msgstr "por 2 segundos"
+msgstr "em 2 segundos"
 
 #: static/tags/pomodoro-settings.tag:147
 msgid "in 3 seconds"
-msgstr "por 3 segundos"
+msgstr "em 3 segundos"
 
 #: static/tags/pomodoro-settings.tag:148
 msgid "in 5 seconds"
-msgstr "por 5 segundos"
+msgstr "em 5 segundos"
 
 #: static/tags/pomodoro-settings.tag:149
 msgid "in 10 seconds"
-msgstr "por 10 segundos"
+msgstr "em 10 segundos"
 
 #: static/tags/pomodoro-settings.tag:161
 msgid "Date format"
