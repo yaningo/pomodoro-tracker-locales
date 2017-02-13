@@ -72,11 +72,11 @@ msgstr "Clique duplo para editar os itens."
 
 #: static/tags/activities.tag:74
 msgid "The list is empty"
-msgstr "A listas está vazia"
+msgstr "A lista está vazia"
 
 #: static/tags/activities.tag:75
 msgid "Try to mark TODO as activity or use the form above"
-msgstr "Experimente marcar uma atividade como PARA FAZER, ou use o formulário abaixo"
+msgstr "Experimente marcar uma atividade como: PARA FAZER, ou use o formulário abaixo"
 
 #: static/tags/feedback.tag:4
 msgid "New"
@@ -271,7 +271,7 @@ msgstr "Ativar alertas no navegador"
 
 #: static/tags/pomodoro-settings.tag:136
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr "Chamar aletas do navegar quando um pomodoro ou pausa terminar."
+msgstr "Chamar alertas do navegador quando um pomodoro ou pausa terminar."
 
 #: static/tags/pomodoro-settings.tag:142
 msgid "Hide notificaions"
@@ -363,7 +363,7 @@ msgstr "A pausa acabou. O próximo pomodoro será ainda melhor!"
 
 #: static/tags/pomodoro-timer.tag:132
 msgid "The Pomodoro is running"
-msgstr "O Pomodoro está rodando"
+msgstr "O Pomodoro está executando"
 
 #: static/tags/pomodoro-todo.tag:10
 msgid "TODO"
@@ -399,11 +399,11 @@ msgstr "Experimente adicionar algumas tarefas pelo formulário abaixo"
 
 #: static/tags/pomodoro-todo.tag:70
 msgid "Double click/tap to edit items. Drag&Drop/Touch by number to sort items."
-msgstr "Clique duplo para editar os itens. Arraste e Solte pelos números para ordená-los"
+msgstr "Clique duplo para editar os itens. Arraste e Solte usando os números para ordená-los"
 
 #: static/tags/profile.tag:5
 msgid "Joined at"
-msgstr "Entrou em:"
+msgstr "Ingressou em:"
 
 #: static/tags/stats/chart.tag:7 static/tags/stats/chart.tag:15
 #: static/tags/stats/chart.tag:23

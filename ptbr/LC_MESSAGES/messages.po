@@ -57,7 +57,7 @@ msgstr "Espanhol"
 
 #: 
 msgid "Brazilian Portuguese"
-msgstr "Protuguês Brasileiro"
+msgstr "Português Brasileiro"
 
 #: templates/base.j2:94 templates/base.j2:131
 msgid "Your language"
@@ -100,8 +100,8 @@ msgid ""
 msgstr ""
 "A técnica Pomodoro é um método para gerenciamento do tempo que pode ser "
 "usada para qualquer tarefa. Para muitas pessoas, tempo é um inimigo. A "
-"ansiedade provocada pelo “pelo tic-tac do relógio”, especiamente quando "
-"envolve uma entrega, e acompanhada de hábitos de trabalho e estudo "
+"ansiedade provocada pelo “tic-tac do relógio”, especiamente quando "
+"envolve uma entrega, acompanhada de hábitos de trabalho e estudo "
 "ineficientes, levam a procastinação."
 
 #: templates/index.j2:14
@@ -111,7 +111,7 @@ msgid ""
 "enable us to improve continually the way we work or study."
 msgstr ""
 "O objetivo da técnica Pomodoro é usar o tempo como um aliado valioso "
-"para realizar o que queremos, e fazer da maneira que queremos.  Essa "
+"para realizar o que queremos e fazer da maneira que queremos.  Essa "
 "técnica nos permite melhorar continuamente a maneira como trabalhamos "
 "ou estudamos".
 
@@ -139,7 +139,7 @@ msgstr "Melhor foco e concentração reduzindo interrupções"
 
 #: templates/index.j2:23
 msgid "Increase awareness of your decisions"
-msgstr "Aumento da sua conciência sobre suas decisões"
+msgstr "Aumento da sua consciência sobre suas decisões"
 
 #: templates/index.j2:24
 msgid "Boost motivation and keep it constant"
@@ -147,7 +147,7 @@ msgstr "Impulso em sua motivação e a mantém constante"
 
 #: templates/index.j2:25
 msgid "Bolster the determination to achieve your goals"
-msgstr "Impulso ainda mais em sua determinação em alcançar seus objetivos"
+msgstr "Impulso ainda maior em sua determinação em alcançar seus objetivos"
 
 #: templates/index.j2:26
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
@@ -182,7 +182,7 @@ msgstr "Comece a trabalhar:"
 
 #: templates/index.j2:38
 msgid "Start the Pomodoro timer"
-msgstr "Iniciar o Pomodoro"
+msgstr "Inicie o Pomodoro"
 
 #: templates/index.j2:39
 msgid "Work until the Pomodoro rings"
@@ -197,7 +197,7 @@ msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
-"Continue trabalhando, Pomodoro a Pomodoro, até qque a tarefa seja "
+"Continue trabalhando, Pomodoro a Pomodoro, até que a tarefa seja "
 "terminada. A cada 4 Pomodoros, faça uma pausa longa(15-30 minutos)."
 
 #: templates/index.j2:46
@@ -213,7 +213,7 @@ msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
-"Se isso levar menos que um Pomodoro,adicione um acima, e combine "
+"Se essa tarefa levar menos que um Pomodoro, adicione uma acima, e combine "
 "com outra tarefa"
 
 #: templates/index.j2:50
