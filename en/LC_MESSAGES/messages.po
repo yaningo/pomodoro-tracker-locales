@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-10-24 12:19+0300\n"
+"POT-Creation-Date: 2017-02-14 16:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.2.0\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: templates/base.j2:33
 msgid "Feedback"
@@ -39,55 +39,35 @@ msgstr ""
 msgid "Worklog"
 msgstr ""
 
-#: templates/base.j2:75 templates/base.j2:112
-msgid "English"
-msgstr ""
-
-#: templates/base.j2:80 templates/base.j2:117
-msgid "Italian"
-msgstr ""
-
-#: templates/base.j2:85 templates/base.j2:122
-msgid "Russian"
-msgstr ""
-
-#: templates/base.j2:90 templates/base.j2:127
-msgid "Spanish"
-msgstr ""
-
-#: templates/base.j2:94 templates/base.j2:131
-msgid "Your language"
-msgstr ""
-
-#: templates/base.j2:101
+#: templates/base.j2:116
 msgid "Logout"
 msgstr ""
 
-#: templates/base.j2:137
+#: templates/base.j2:167
 msgid "Sign Up / Login"
 msgstr ""
 
-#: templates/base.j2:140
+#: templates/base.j2:170
 msgid "as Google user"
 msgstr ""
 
-#: templates/base.j2:143
+#: templates/base.j2:173
 msgid "as Facebook user"
 msgstr ""
 
-#: templates/base.j2:146
+#: templates/base.j2:176
 msgid "as Github user"
 msgstr ""
 
-#: templates/base.j2:163
+#: templates/base.j2:193
 msgid "version"
 msgstr ""
 
-#: templates/index.j2:12
+#: templates/index.j2:22
 msgid "What is it?"
 msgstr ""
 
-#: templates/index.j2:13
+#: templates/index.j2:23
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
@@ -95,117 +75,117 @@ msgid ""
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
 
-#: templates/index.j2:14
+#: templates/index.j2:24
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
 
-#: templates/index.j2:18
+#: templates/index.j2:28
 msgid "The Goals"
 msgstr ""
 
-#: templates/index.j2:19
+#: templates/index.j2:29
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
 
-#: templates/index.j2:21
+#: templates/index.j2:31
 msgid "Alleviate anxiety linked to becoming"
 msgstr ""
 
-#: templates/index.j2:22
+#: templates/index.j2:32
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr ""
 
-#: templates/index.j2:23
+#: templates/index.j2:33
 msgid "Increase awareness of your decisions"
 msgstr ""
 
-#: templates/index.j2:24
+#: templates/index.j2:34
 msgid "Boost motivation and keep it constant"
 msgstr ""
 
-#: templates/index.j2:25
+#: templates/index.j2:35
 msgid "Bolster the determination to achieve your goals"
 msgstr ""
 
-#: templates/index.j2:26
+#: templates/index.j2:36
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr ""
 
-#: templates/index.j2:27
+#: templates/index.j2:37
 msgid "Improve your work or study process"
 msgstr ""
 
-#: templates/index.j2:28
+#: templates/index.j2:38
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr ""
 
-#: templates/index.j2:34
+#: templates/index.j2:44
 msgid "The Basics"
 msgstr ""
 
-#: templates/index.j2:35
+#: templates/index.j2:45
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
 
-#: templates/index.j2:36
+#: templates/index.j2:46
 msgid "Start working:"
 msgstr ""
 
-#: templates/index.j2:38
+#: templates/index.j2:48
 msgid "Start the Pomodoro timer"
 msgstr ""
 
-#: templates/index.j2:39
+#: templates/index.j2:49
 msgid "Work until the Pomodoro rings"
 msgstr ""
 
-#: templates/index.j2:40
+#: templates/index.j2:50
 msgid "Take a short break (3-5 minutes)"
 msgstr ""
 
-#: templates/index.j2:42
+#: templates/index.j2:52
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
 
-#: templates/index.j2:46
+#: templates/index.j2:56
 msgid "Rules & Tips"
 msgstr ""
 
-#: templates/index.j2:48
+#: templates/index.j2:58
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr ""
 
-#: templates/index.j2:49
+#: templates/index.j2:59
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
 
-#: templates/index.j2:50
+#: templates/index.j2:60
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
 
-#: templates/index.j2:51
+#: templates/index.j2:61
 msgid "The next Pomodoro will go better"
 msgstr ""
 
-#: templates/index.j2:52
+#: templates/index.j2:62
 msgid "Login to the service and track your progress"
 msgstr ""
 
-#: templates/index.j2:53
+#: templates/index.j2:63
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
@@ -216,26 +196,30 @@ msgid "Upcomming features"
 msgstr ""
 
 #: templates/news.j2:22
+msgid "October"
+msgstr ""
+
+#: templates/news.j2:33
 msgid "May"
 msgstr ""
 
-#: templates/news.j2:35
+#: templates/news.j2:46
 msgid "March"
 msgstr ""
 
-#: templates/news.j2:45
+#: templates/news.j2:56
 msgid "Febrary"
 msgstr ""
 
-#: templates/news.j2:57
+#: templates/news.j2:68
 msgid "December"
 msgstr ""
 
-#: templates/news.j2:67
+#: templates/news.j2:78
 msgid "September"
 msgstr ""
 
-#: templates/news.j2:80
+#: templates/news.j2:91
 msgid "August"
 msgstr ""
 
@@ -243,5 +227,20 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Spain"
+#~ msgstr ""
+
+#~ msgid "English"
+#~ msgstr ""
+
+#~ msgid "Italian"
+#~ msgstr ""
+
+#~ msgid "Russian"
+#~ msgstr ""
+
+#~ msgid "Spanish"
+#~ msgstr ""
+
+#~ msgid "Your language"
 #~ msgstr ""
 

@@ -1,18 +1,18 @@
-# Turkish translations for pomodoro.
-# Copyright (C) 2016 ORGANIZATION
+# Norwegian Bokmål (Norway) translations for pomodoro.
+# Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the pomodoro project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: pomodoro 1.4.6\n"
+"Project-Id-Version: pomodoro 1.4.8\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-02-14 16:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Ertuğrul Seyhan <contact@ertugrulseyhan.com>\n"
-"Language: tr\n"
-"Language-Team: tr <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: nb_NO\n"
+"Language-Team: nb_NO <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -21,51 +21,51 @@ msgstr ""
 
 #: templates/base.j2:33
 msgid "Feedback"
-msgstr "Geri Bildirim"
+msgstr ""
 
 #: templates/base.j2:43
 msgid "Login to track your productivity"
-msgstr "Verimliliğinizi takip etmek için giriş yapın"
+msgstr ""
 
 #: templates/base.j2:45
 msgid "Stats"
-msgstr "İstatistikler"
+msgstr ""
 
 #: templates/base.j2:55
 msgid "Login to log your work"
-msgstr "Çalışma kaydınızı tutmak için giriş yapın"
+msgstr ""
 
 #: templates/base.j2:57
 msgid "Worklog"
-msgstr "Çalışma geçmişi"
+msgstr ""
 
 #: templates/base.j2:116
 msgid "Logout"
-msgstr "Çıkış"
+msgstr ""
 
 #: templates/base.j2:167
 msgid "Sign Up / Login"
-msgstr "Kayıt / Giriş"
+msgstr ""
 
 #: templates/base.j2:170
 msgid "as Google user"
-msgstr "Google üzerinden"
+msgstr ""
 
 #: templates/base.j2:173
 msgid "as Facebook user"
-msgstr "Facebook üzerinden"
+msgstr ""
 
 #: templates/base.j2:176
 msgid "as Github user"
-msgstr "Github üzerinden"
+msgstr ""
 
 #: templates/base.j2:193
 msgid "version"
-msgstr "sürüm"
+msgstr ""
 
 #: templates/index.j2:22
 msgid "What is it?"
-msgstr "Bu nedir?"
+msgstr ""
 
 #: templates/index.j2:23
 msgid ""
@@ -74,11 +74,6 @@ msgid ""
 "“the ticking clock”, especially when it involves a deadline, leads to "
 "ineffective work and study habits which in turn lead to procrastination."
 msgstr ""
-"Pomodoro tekniği herhangi bir görev için kullanabileceğiniz bir zaman "
-"yönetim tekniğidir. Birçok kişi için zaman bir düşmandır. “Saat tik "
-"seslerinin” özellikle yaklaşan zaman sınırlarında oluşturduğu kaygı "
-"başarısız çalışmalara ve kötü çalışma alışkanlıklarına yol açar ve buda "
-"işin ertelenmesine sebebiyet verir."
 
 #: templates/index.j2:24
 msgid ""
@@ -86,14 +81,10 @@ msgid ""
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
-"Pomodoro Tekniğinin amacı gerçekleştirmek istediğimiz görevin istediğimiz"
-" biçimde gerçekleştirilmesi, zamanın değerli bir müttefik olarak ele "
-"alınması ve çalışma veya öğrenme sürecimizi sürekli olarak geliştirmemize"
-" imkan sağlamasıdır."
 
 #: templates/index.j2:28
 msgid "The Goals"
-msgstr "Hedefler"
+msgstr ""
 
 #: templates/index.j2:29
 msgid ""
@@ -101,119 +92,108 @@ msgid ""
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
-"Pomodoro Tekniği sizin ve/veya ekip üyelerinizin üretkenliğinizi "
-"arttırmak için kullanabileceğiniz basit bir yöntemdir. Bu tekniği "
-"kullanarak şunları yapabilirsiniz:"
 
 #: templates/index.j2:31
 msgid "Alleviate anxiety linked to becoming"
-msgstr "Hedeflerinizle bağlantılı olan kaygılarınızı hafifletin"
+msgstr ""
 
 #: templates/index.j2:32
 msgid "Enhance focus and concentration by cutting down on interruptions"
-msgstr "Odaklanma ve konsantrasyon kabiliyetlerinizi geliştirin"
+msgstr ""
 
 #: templates/index.j2:33
 msgid "Increase awareness of your decisions"
-msgstr "Aldığınız kararlardaki farkındalığınızı arttırın"
+msgstr ""
 
 #: templates/index.j2:34
 msgid "Boost motivation and keep it constant"
-msgstr "Motivasyonunuzu yükseltin ve sabit kılın"
+msgstr ""
 
 #: templates/index.j2:35
 msgid "Bolster the determination to achieve your goals"
-msgstr "Hedeflerinize ulaşmak için kararlılığınızı arttırın"
+msgstr ""
 
 #: templates/index.j2:36
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr "Nicel ve nitel gözlemlerinizdeki tahmin gücünüzü arttırın"
+msgstr ""
 
 #: templates/index.j2:37
 msgid "Improve your work or study process"
-msgstr "Çalışma veya öğrenme sürecinizi geliştirin"
+msgstr ""
 
 #: templates/index.j2:38
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr "Karmaşık durumlar karşısında çözüm üretme kabiliyetinizi güçlendirin"
+msgstr ""
 
 #: templates/index.j2:44
 msgid "The Basics"
-msgstr "Temeller"
+msgstr ""
 
 #: templates/index.j2:45
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
-"Her günün başlangıcında tamamlamanız gereken görevleri seçin ve "
-"yukarıdaki yapılacaklar listesine ekleyin."
 
 #: templates/index.j2:46
 msgid "Start working:"
-msgstr "Çalışmaya başlayın:"
+msgstr ""
 
 #: templates/index.j2:48
 msgid "Start the Pomodoro timer"
-msgstr "Pomodoro zamanlayıcısını başlat"
+msgstr ""
 
 #: templates/index.j2:49
 msgid "Work until the Pomodoro rings"
-msgstr "Pomodoro bitene kadar çalış"
+msgstr ""
 
 #: templates/index.j2:50
 msgid "Take a short break (3-5 minutes)"
-msgstr "Kısa bir mola alın (3-5 dakika)"
+msgstr ""
 
 #: templates/index.j2:52
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
 msgstr ""
-"Elinizdeki görev bitinciye kadar Pomodoro'dan Pomodoro'ya çalışmaya devam"
-" edin. Her 4 Pomodoro'da uzun bir mola alın. (15-30 dakika)"
 
 #: templates/index.j2:56
 msgid "Rules & Tips"
-msgstr "Kurallar & İpuçları"
+msgstr ""
 
 #: templates/index.j2:58
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
-msgstr "İşiniz 5-7 Pomodoro'dan fazla sürüyorsa abartıya kaçmayın"
+msgstr ""
 
 #: templates/index.j2:59
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
-"İşiniz bir Pomodoro'dan daha az sürüyorsa diğerlerine dahil edin, başka "
-"bir görev ile birleştirin"
 
 #: templates/index.j2:60
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr "Pomodoro bir kere başladıktan sonra bitmek zorundadır"
+msgstr ""
 
 #: templates/index.j2:61
 msgid "The next Pomodoro will go better"
-msgstr "Bir sonraki Pomodoro daha iyi geçecektir"
+msgstr ""
 
 #: templates/index.j2:62
 msgid "Login to the service and track your progress"
-msgstr "Sürecinizi takip etmek için giriş yapın"
+msgstr ""
 
 #: templates/index.j2:63
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
-"Pomodoro tekniği boş vakitlerinizde yaptığınız aktivitelerinizde "
-"kullanılmamalıdır. Boş zamanlarınızın tadını çıkarın!"
 
 #: templates/news.j2:11
 msgid "Upcomming features"
-msgstr "Planlanan özellikler"
+msgstr ""
 
 #: templates/news.j2:22
 msgid "October"
@@ -221,49 +201,25 @@ msgstr ""
 
 #: templates/news.j2:33
 msgid "May"
-msgstr "Mayıs"
+msgstr ""
 
 #: templates/news.j2:46
 msgid "March"
-msgstr "Mart"
+msgstr ""
 
 #: templates/news.j2:56
 msgid "Febrary"
-msgstr "Şubat"
+msgstr ""
 
 #: templates/news.j2:68
 msgid "December"
-msgstr "Aralık"
+msgstr ""
 
 #: templates/news.j2:78
 msgid "September"
-msgstr "Eylül"
+msgstr ""
 
 #: templates/news.j2:91
 msgid "August"
-msgstr "Ağustos"
-
-#~ msgid "Admin"
-#~ msgstr "Yönetici"
-
-#~ msgid "Spain"
-#~ msgstr "İspanya"
-
-#~ msgid "Turkish"
-#~ msgstr "Türkçe"
-
-#~ msgid "English"
-#~ msgstr "İngilizce"
-
-#~ msgid "Italian"
-#~ msgstr "İtalyan"
-
-#~ msgid "Russian"
-#~ msgstr "Rusça"
-
-#~ msgid "Spanish"
-#~ msgstr "İspanyolca"
-
-#~ msgid "Your language"
-#~ msgstr ""
+msgstr ""
 

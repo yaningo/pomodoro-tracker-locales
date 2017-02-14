@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pomodoro 0.7.16\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-06 20:20-0200\n"
+"POT-Creation-Date: 2017-02-14 16:46+0300\n"
 "PO-Revision-Date: 2017-02-06 20:20-0200\n"
 "Last-Translator: LUCAS ERNESTO KINDINGER <kindingerlek@hotmail.com>\n"
-"Language: pt_br\n"
+"Language: pt_BR\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.2.0\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: templates/base.j2:33
 msgid "Feedback"
@@ -39,59 +39,35 @@ msgstr "Entre para registrar seu trabalho"
 msgid "Worklog"
 msgstr "Registro de Trabalho"
 
-#: templates/base.j2:75 templates/base.j2:112
-msgid "English"
-msgstr "Inglês"
-
-#: templates/base.j2:80 templates/base.j2:117
-msgid "Italian"
-msgstr "Italiano"
-
-#: templates/base.j2:85 templates/base.j2:122
-msgid "Russian"
-msgstr "Russo"
-
-#: templates/base.j2:90 templates/base.j2:127
-msgid "Spanish"
-msgstr "Espanhol"
-
-#: 
-msgid "Brazilian Portuguese"
-msgstr "Português Brasileiro"
-
-#: templates/base.j2:94 templates/base.j2:131
-msgid "Your language"
-msgstr "Seu Idioma"
-
-#: templates/base.j2:101
+#: templates/base.j2:116
 msgid "Logout"
 msgstr "Sair"
 
-#: templates/base.j2:137
+#: templates/base.j2:167
 msgid "Sign Up / Login"
 msgstr "Registrar-se / Entrar"
 
-#: templates/base.j2:140
+#: templates/base.j2:170
 msgid "as Google user"
 msgstr "como um usuário Google"
 
-#: templates/base.j2:143
+#: templates/base.j2:173
 msgid "as Facebook user"
 msgstr "como um usuário Facebook"
 
-#: templates/base.j2:146
+#: templates/base.j2:176
 msgid "as Github user"
 msgstr "como um usuário Github"
 
-#: templates/base.j2:163
+#: templates/base.j2:193
 msgid "version"
 msgstr "versão"
 
-#: templates/index.j2:12
+#: templates/index.j2:22
 msgid "What is it?"
 msgstr "O que é?"
 
-#: templates/index.j2:13
+#: templates/index.j2:23
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
@@ -104,95 +80,96 @@ msgstr ""
 "envolve uma entrega, acompanhada de hábitos de trabalho e estudo "
 "ineficientes, levam a procastinação."
 
-#: templates/index.j2:14
+#: templates/index.j2:24
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
 "enable us to improve continually the way we work or study."
 msgstr ""
-"O objetivo da técnica Pomodoro é usar o tempo como um aliado valioso "
-"para realizar o que queremos e fazer da maneira que queremos.  Essa "
-"técnica nos permite melhorar continuamente a maneira como trabalhamos "
-"ou estudamos".
+"O objetivo da técnica Pomodoro é usar o tempo como um aliado valioso para"
+" realizar o que queremos e fazer da maneira que queremos.  Essa técnica "
+"nos permite melhorar continuamente a maneira como trabalhamos ou "
+"estudamos\""
 
-#: templates/index.j2:18
+#: templates/index.j2:28
 msgid "The Goals"
 msgstr "Os Objetivos"
 
-#: templates/index.j2:19
+#: templates/index.j2:29
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
 "following:"
 msgstr ""
 "A técnica do Pomodo fornece uma ferramenta simples para melhorar a "
-"produtividade (a sua própria e a dos membros da sua equipe) que poderá vir"
-"acompanhada de: "
+"produtividade (a sua própria e a dos membros da sua equipe) que poderá "
+"viracompanhada de: "
 
-#: templates/index.j2:21
+#: templates/index.j2:31
 msgid "Alleviate anxiety linked to becoming"
 msgstr "Alivío da ansiedade ligada a algo que está por vir"
 
-#: templates/index.j2:22
+#: templates/index.j2:32
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Melhor foco e concentração reduzindo interrupções"
 
-#: templates/index.j2:23
+#: templates/index.j2:33
 msgid "Increase awareness of your decisions"
 msgstr "Aumento da sua consciência sobre suas decisões"
 
-#: templates/index.j2:24
+#: templates/index.j2:34
 msgid "Boost motivation and keep it constant"
 msgstr "Impulso em sua motivação e a mantém constante"
 
-#: templates/index.j2:25
+#: templates/index.j2:35
 msgid "Bolster the determination to achieve your goals"
 msgstr "Impulso ainda maior em sua determinação em alcançar seus objetivos"
 
-#: templates/index.j2:26
+#: templates/index.j2:36
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr "Aperfeiçoamento sua capacidade de estimar, tanto em qualidade quanto em quantidade"
+msgstr ""
+"Aperfeiçoamento sua capacidade de estimar, tanto em qualidade quanto em "
+"quantidade"
 
-#: templates/index.j2:27
+#: templates/index.j2:37
 msgid "Improve your work or study process"
 msgstr "Melhora no seu processo de estudo e trabalho"
 
-#: templates/index.j2:28
+#: templates/index.j2:38
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
-msgstr ""
-"Reforço em sua vontade de dedicar-se e encarar situações complexas"
+msgstr "Reforço em sua vontade de dedicar-se e encarar situações complexas"
 
-#: templates/index.j2:34
+#: templates/index.j2:44
 msgid "The Basics"
 msgstr "O Básico"
 
-#: templates/index.j2:35
+#: templates/index.j2:45
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
 msgstr ""
-"A cada inicío de dia, selecione as tarefas que você precisa completar e"
-"as coloque na lista PARA FAZER, logo abaixo:"
+"A cada inicío de dia, selecione as tarefas que você precisa completar eas"
+" coloque na lista PARA FAZER, logo abaixo:"
 
-#: templates/index.j2:36
+#: templates/index.j2:46
 msgid "Start working:"
 msgstr "Comece a trabalhar:"
 
-#: templates/index.j2:38
+#: templates/index.j2:48
 msgid "Start the Pomodoro timer"
 msgstr "Inicie o Pomodoro"
 
-#: templates/index.j2:39
+#: templates/index.j2:49
 msgid "Work until the Pomodoro rings"
 msgstr "Trabalhe até que o alarme do Pomodoro toque"
 
-#: templates/index.j2:40
+#: templates/index.j2:50
 msgid "Take a short break (3-5 minutes)"
 msgstr "Faça uma pausa curta (3-5 minutos)"
 
-#: templates/index.j2:42
+#: templates/index.j2:52
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
@@ -200,67 +177,71 @@ msgstr ""
 "Continue trabalhando, Pomodoro a Pomodoro, até que a tarefa seja "
 "terminada. A cada 4 Pomodoros, faça uma pausa longa(15-30 minutos)."
 
-#: templates/index.j2:46
+#: templates/index.j2:56
 msgid "Rules & Tips"
 msgstr "Regras e dicas"
 
-#: templates/index.j2:48
+#: templates/index.j2:58
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Se uma tarefa levar mais que 5-7 Pomodoros, divida-as em tarefas menores"
 
-#: templates/index.j2:49
+#: templates/index.j2:59
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
 msgstr ""
-"Se essa tarefa levar menos que um Pomodoro, adicione uma acima, e combine "
-"com outra tarefa"
+"Se essa tarefa levar menos que um Pomodoro, adicione uma acima, e combine"
+" com outra tarefa"
 
-#: templates/index.j2:50
+#: templates/index.j2:60
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr ""
 
-#: templates/index.j2:51
+#: templates/index.j2:61
 msgid "The next Pomodoro will go better"
 msgstr "O próximo Pomodoro será melhor ainda!"
 
-#: templates/index.j2:52
+#: templates/index.j2:62
 msgid "Login to the service and track your progress"
 msgstr "Entre no serviço para acompanhar seu progresso"
 
-#: templates/index.j2:53
+#: templates/index.j2:63
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
 msgstr ""
-"A técnica do Pomodoro não deve ser usada para as atividades que você"
-"faz em seu tempo livre. Aproveite seu tempo livre!"
+"A técnica do Pomodoro não deve ser usada para as atividades que vocêfaz "
+"em seu tempo livre. Aproveite seu tempo livre!"
 
 #: templates/news.j2:11
 msgid "Upcomming features"
 msgstr "Funcionalidades que estão por vir"
 
 #: templates/news.j2:22
+msgid "October"
+msgstr ""
+
+#: templates/news.j2:33
 msgid "May"
 msgstr "Maio"
 
-#: templates/news.j2:35
+#: templates/news.j2:46
 msgid "March"
 msgstr "Março"
 
-#: templates/news.j2:45
+#: templates/news.j2:56
 msgid "Febrary"
 msgstr "Fevereiro"
 
-#: templates/news.j2:57
+#: templates/news.j2:68
 msgid "December"
 msgstr "Dezembro"
 
-#: templates/news.j2:67
+#: templates/news.j2:78
 msgid "September"
 msgstr "Setembro"
 
-#: templates/news.j2:80
+#: templates/news.j2:91
 msgid "August"
 msgstr "Agosto"
 
@@ -269,4 +250,22 @@ msgstr "Agosto"
 
 #~ msgid "Spain"
 #~ msgstr "Espanha"
+
+#~ msgid "English"
+#~ msgstr "Inglês"
+
+#~ msgid "Italian"
+#~ msgstr "Italiano"
+
+#~ msgid "Russian"
+#~ msgstr "Russo"
+
+#~ msgid "Spanish"
+#~ msgstr "Espanhol"
+
+#~ msgid "Brazilian Portuguese"
+#~ msgstr "Português Brasileiro"
+
+#~ msgid "Your language"
+#~ msgstr "Seu Idioma"
 
