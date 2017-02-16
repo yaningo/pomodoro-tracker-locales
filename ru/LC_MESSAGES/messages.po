@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-10-24 12:19+0300\n"
+"POT-Creation-Date: 2017-02-14 16:46+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.2.0\n"
+"Generated-By: Babel 2.3.4\n"
 
 #: templates/base.j2:33
 msgid "Feedback"
@@ -40,55 +40,35 @@ msgstr "Войдите для использования"
 msgid "Worklog"
 msgstr "Журнал"
 
-#: templates/base.j2:75 templates/base.j2:112
-msgid "English"
-msgstr "Английский"
-
-#: templates/base.j2:80 templates/base.j2:117
-msgid "Italian"
-msgstr ""
-
-#: templates/base.j2:85 templates/base.j2:122
-msgid "Russian"
-msgstr "Русский"
-
-#: templates/base.j2:90 templates/base.j2:127
-msgid "Spanish"
-msgstr "Испанский"
-
-#: templates/base.j2:94 templates/base.j2:131
-msgid "Your language"
-msgstr ""
-
-#: templates/base.j2:101
+#: templates/base.j2:116
 msgid "Logout"
 msgstr "Выход"
 
-#: templates/base.j2:137
+#: templates/base.j2:167
 msgid "Sign Up / Login"
 msgstr "Регистрация / Вход"
 
-#: templates/base.j2:140
+#: templates/base.j2:170
 msgid "as Google user"
 msgstr "используя Google"
 
-#: templates/base.j2:143
+#: templates/base.j2:173
 msgid "as Facebook user"
 msgstr "используя Facebook"
 
-#: templates/base.j2:146
+#: templates/base.j2:176
 msgid "as Github user"
 msgstr "используя Github"
 
-#: templates/base.j2:163
+#: templates/base.j2:193
 msgid "version"
 msgstr "Версия"
 
-#: templates/index.j2:12
+#: templates/index.j2:22
 msgid "What is it?"
 msgstr "Что это?"
 
-#: templates/index.j2:13
+#: templates/index.j2:23
 msgid ""
 "The Pomodoro Technique is a time management method that can be used for "
 "any task. For many people, time is an enemy. The anxiety triggered by "
@@ -100,7 +80,7 @@ msgstr ""
 "Беспокойство, вызванное «тиканьем часов», приводит к неэффективной работе"
 " и к привычке затягивать задачи (прокрастинации)."
 
-#: templates/index.j2:14
+#: templates/index.j2:24
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
 "accomplishing what we want to do in the way we want to do it, and to "
@@ -110,11 +90,11 @@ msgstr ""
 "достижении того, что мы хотим сделать и как мы хотим это сделать. Она "
 "даёт нам возможность постоянно улучшать то, как мы работаем или учимся."
 
-#: templates/index.j2:18
+#: templates/index.j2:28
 msgid "The Goals"
 msgstr "Цели"
 
-#: templates/index.j2:19
+#: templates/index.j2:29
 msgid ""
 "The Pomodoro Technique will provide a simple tool/process for improving "
 "productivity (your own and that of your team members) which can do the "
@@ -124,45 +104,45 @@ msgstr ""
 "производительности (для Вас или вашей команды) и может быть использована "
 "для:"
 
-#: templates/index.j2:21
+#: templates/index.j2:31
 msgid "Alleviate anxiety linked to becoming"
 msgstr "Облегчения начала работы"
 
-#: templates/index.j2:22
+#: templates/index.j2:32
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Улучшения концентрации, избавления от отвлекающих факторов"
 
-#: templates/index.j2:23
+#: templates/index.j2:33
 msgid "Increase awareness of your decisions"
 msgstr "Повышения осведомлённости о ваших решениях"
 
-#: templates/index.j2:24
+#: templates/index.j2:34
 msgid "Boost motivation and keep it constant"
 msgstr "Улучшения и сохранения мотивации"
 
-#: templates/index.j2:25
+#: templates/index.j2:35
 msgid "Bolster the determination to achieve your goals"
 msgstr "Определенности с пониманием достижения ваших целей"
 
-#: templates/index.j2:26
+#: templates/index.j2:36
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
 msgstr "Уточнения процесса оценки задач, качественно и количественно"
 
-#: templates/index.j2:27
+#: templates/index.j2:37
 msgid "Improve your work or study process"
 msgstr "Улучшения вашего рабочего или учебного процесса"
 
-#: templates/index.j2:28
+#: templates/index.j2:38
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
 "complex situations"
 msgstr "Укрепления вашей решимости в сложных ситуациях"
 
-#: templates/index.j2:34
+#: templates/index.j2:44
 msgid "The Basics"
 msgstr "Основы"
 
-#: templates/index.j2:35
+#: templates/index.j2:45
 msgid ""
 "At the beginning of each day select the tasks you need to complete and "
 "put them on the TODO list above."
@@ -170,23 +150,23 @@ msgstr ""
 "В начале каждого дня выбирайте задачи для выполнения и вносите их в "
 "список TODO, что находится выше."
 
-#: templates/index.j2:36
+#: templates/index.j2:46
 msgid "Start working:"
 msgstr "Начинайте работать:"
 
-#: templates/index.j2:38
+#: templates/index.j2:48
 msgid "Start the Pomodoro timer"
 msgstr "Запустите таймер («помидор»)"
 
-#: templates/index.j2:39
+#: templates/index.j2:49
 msgid "Work until the Pomodoro rings"
 msgstr "Работайте пока «помидор» не прозвонит"
 
-#: templates/index.j2:40
+#: templates/index.j2:50
 msgid "Take a short break (3-5 minutes)"
 msgstr "Сделайте короткий перерыв (3-5 минут)"
 
-#: templates/index.j2:42
+#: templates/index.j2:52
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
 "finished. Every 4 Pomodoros take a longer break, (15–30 minutes)."
@@ -194,15 +174,15 @@ msgstr ""
 "Продолжайте работать «помидор» за «помидором», пока все задачи не будут "
 "выполнены. Каждые 4 «помидора» делайте длинный перерыв (15-30 минут)."
 
-#: templates/index.j2:46
+#: templates/index.j2:56
 msgid "Rules & Tips"
 msgstr "Правила и советы"
 
-#: templates/index.j2:48
+#: templates/index.j2:58
 msgid "If a task takes more than 5–7 Pomodoros, break it down"
 msgstr "Если задача требует более 5-7 «помидоров» — разбейте её на подзадачи"
 
-#: templates/index.j2:49
+#: templates/index.j2:59
 msgid ""
 "If it takes less than one Pomodoro, add it up, and combine  it with "
 "another task"
@@ -210,19 +190,19 @@ msgstr ""
 "Если задача требует менее одного «помидора» — скомбинируйте её с другой "
 "задачей"
 
-#: templates/index.j2:50
+#: templates/index.j2:60
 msgid "Once a Pomodoro begins, it has to ring"
 msgstr "Если вы начали «помидор» — вы должны его закончить"
 
-#: templates/index.j2:51
+#: templates/index.j2:61
 msgid "The next Pomodoro will go better"
 msgstr "Следующий «помидор» будет лучше"
 
-#: templates/index.j2:52
+#: templates/index.j2:62
 msgid "Login to the service and track your progress"
 msgstr "Войдите на сервис и отслеживайте ваш прогресс"
 
-#: templates/index.j2:53
+#: templates/index.j2:63
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
@@ -235,32 +215,48 @@ msgid "Upcomming features"
 msgstr "В разработке"
 
 #: templates/news.j2:22
+msgid "October"
+msgstr ""
+
+#: templates/news.j2:33
 msgid "May"
 msgstr ""
 
-#: templates/news.j2:35
+#: templates/news.j2:46
 msgid "March"
 msgstr "Март"
 
-#: templates/news.j2:45
+#: templates/news.j2:56
 msgid "Febrary"
 msgstr "Февраль"
 
-#: templates/news.j2:57
+#: templates/news.j2:68
 msgid "December"
 msgstr "Декабрь"
 
-#: templates/news.j2:67
+#: templates/news.j2:78
 msgid "September"
 msgstr "Сентябрь"
 
-#: templates/news.j2:80
+#: templates/news.j2:91
 msgid "August"
 msgstr "Август"
 
 #~ msgid "Your language"
-#~ msgstr "Ваш язык"
+#~ msgstr ""
 
 #~ msgid "Admin"
 #~ msgstr "Администрирование"
+
+#~ msgid "English"
+#~ msgstr "Английский"
+
+#~ msgid "Italian"
+#~ msgstr ""
+
+#~ msgid "Russian"
+#~ msgstr "Русский"
+
+#~ msgid "Spanish"
+#~ msgstr "Испанский"
 
