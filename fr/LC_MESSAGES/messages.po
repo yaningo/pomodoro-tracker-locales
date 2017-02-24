@@ -21,7 +21,7 @@ msgstr ""
 
 #: templates/base.j2:33
 msgid "Feedback"
-msgstr "Assistance / Suggestions"
+msgstr "Commentaires"
 
 #: templates/base.j2:43
 msgid "Login to track your productivity"
@@ -220,7 +220,7 @@ msgstr "Prochaines améliorations"
 
 #: templates/news.j2:22
 msgid "October"
-msgstr ""
+msgstr "Octobre"
 
 #: templates/news.j2:33
 msgid "May"
@@ -231,7 +231,7 @@ msgid "March"
 msgstr "Mars"
 
 #: templates/news.j2:56
-msgid "Febrary"
+msgid "February"
 msgstr "Février"
 
 #: templates/news.j2:68
@@ -247,10 +247,10 @@ msgid "August"
 msgstr "Août"
 
 #~ msgid "Admin"
-#~ msgstr ""
+#~ msgstr "Administrateur"
 
 #~ msgid "Spain"
-#~ msgstr ""
+#~ msgstr "Espagne"
 
 #~ msgid "English"
 #~ msgstr "Anglais"
@@ -266,4 +266,3 @@ msgstr "Août"
 
 #~ msgid "Your language"
 #~ msgstr "Votre langue"
-
